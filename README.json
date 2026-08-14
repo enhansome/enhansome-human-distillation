@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "description": "将一个真实存在过的人——同事、导师、前任、家人——通过对话记录、文字、声音等材料，提炼成一个可调用的 Claude Code Agent Skill。",
+      "items": [],
+      "title": "什么是 Human Distillation？"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其他 / 泛用工具 General"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "职场关系 Workplace"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "学术关系 Academia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "亲密关系 Intimate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "家庭关系 Family"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "公众人物 Public Figures"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:09:47.144Z",
+    "original_repository": "mliu98/awesome-human-distillation",
+    "original_repository_sha": "6f310dcb073bdc80cefc01e392dd158582ba5b14",
+    "enhanced_repository": "enhansome/enhansome-human-distillation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Human Distillation with stars"
+  }
+}
