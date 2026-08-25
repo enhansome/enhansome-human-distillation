@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1201730379,
             "language": "Python",
-            "last_commit": "2026-07-27T04:38:20Z",
+            "last_commit": "2026-08-25T03:02:26Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31278
+            "stars": 31309
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-25T01:41:26Z",
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 1293528352,
             "language": "Python",
-            "last_commit": "2026-08-24T10:22:35Z",
+            "last_commit": "2026-08-24T18:30:47Z",
             "owner": "ohad6k",
             "repo": "emulo",
             "stars": 272
@@ -90,7 +90,7 @@
             "last_commit": "2026-04-08T10:49:12Z",
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-24T03:47:51Z",
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 23899
+            "stars": 23935
           }
         },
         {
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 1201947430,
             "language": null,
-            "last_commit": "2026-05-28T00:10:21Z",
+            "last_commit": "2026-08-25T03:03:20Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10186
+            "stars": 10189
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2584
+            "stars": 2586
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-19T11:59:07Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1072
+            "stars": 1073
           }
         },
         {
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 1201942857,
             "language": null,
-            "last_commit": "2026-05-27T16:12:57Z",
+            "last_commit": "2026-08-25T03:05:14Z",
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 1203030411,
             "language": null,
-            "last_commit": "2026-05-28T00:07:28Z",
+            "last_commit": "2026-08-25T03:05:06Z",
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
             "stars": 296
@@ -600,7 +600,7 @@
             "last_commit": "2026-04-07T13:15:15Z",
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 1203030380,
             "language": null,
-            "last_commit": "2026-05-28T00:07:51Z",
+            "last_commit": "2026-08-25T03:04:37Z",
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
             "stars": 47
@@ -935,6 +935,21 @@
         },
         {
           "node_type": "item",
+          "title": "孔子.skill",
+          "description": "kongzi-skill @Panmax 蒸馏孔子的认知框架：仁义礼、修身齐家、有教无类……用儒家思维操作系统分析你的修身与教育问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207829225,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "kongzi-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "陈震.skill",
           "description": "zhen-ge-skill @LBatsoft 蒸馏汽车评测人陈震的三维分析框架（性能、质感、价值），还原「这你受得了吗」的选车逻辑与效率优先世界观",
           "children": [],
@@ -1036,21 +1051,6 @@
             "owner": "nuwa-skills",
             "repo": "davinci-skill",
             "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "孔子.skill",
-          "description": "kongzi-skill @Panmax 蒸馏孔子的认知框架：仁义礼、修身齐家、有教无类……用儒家思维操作系统分析你的修身与教育问题",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1207829225,
-            "language": null,
-            "last_commit": "2026-07-25T01:07:14Z",
-            "owner": "nuwa-skills",
-            "repo": "kongzi-skill",
-            "stars": 3
           }
         },
         {
@@ -3188,10 +3188,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:56.203Z",
+    "last_updated": "2026-08-25T04:04:12.804Z",
     "original_repository": "mliu98/awesome-human-distillation",
     "original_repository_id": 1199916658,
-    "original_repository_sha": "39a5c1c6eea0b95ea9b32af8f46a15456b297082",
+    "original_repository_sha": "165c8e4fcee50c59ce43538403e3d6ec50cbf635",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
