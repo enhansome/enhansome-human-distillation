@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:02:26Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31309
+            "stars": 31315
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-25T01:41:26Z",
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 1195828337,
             "language": "Python",
-            "last_commit": "2026-08-24T03:47:51Z",
+            "last_commit": "2026-08-25T04:58:12Z",
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 23935
+            "stars": 23939
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-25T03:03:20Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10189
+            "stars": 10188
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2586
+            "stars": 2587
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-07-25T01:07:40Z",
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -3188,7 +3188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:04:12.804Z",
+    "last_updated": "2026-08-25T06:13:36.139Z",
     "original_repository": "mliu98/awesome-human-distillation",
     "original_repository_id": 1199916658,
     "original_repository_sha": "165c8e4fcee50c59ce43538403e3d6ec50cbf635",
