@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:02:26Z",
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31315
+            "stars": 31386
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 996
+            "stars": 999
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T18:30:47Z",
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 1195828337,
             "language": "Python",
-            "last_commit": "2026-08-25T04:58:12Z",
+            "last_commit": "2026-08-25T07:18:07Z",
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 23939
+            "stars": 23986
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-04-10T08:36:02Z",
             "owner": "zhang-haichao",
             "repo": "senpai-skill",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-04-11T10:06:59Z",
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 61
+            "stars": 60
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-13T14:48:44Z",
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1070
+            "stars": 1071
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-08-25T03:03:20Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10188
+            "stars": 10190
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-07-20T19:04:56Z",
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3730
+            "stars": 3731
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-22T07:00:28Z",
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2587
+            "stars": 2588
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-19T11:59:07Z",
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1073
+            "stars": 1074
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-25T03:05:14Z",
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 932
+            "stars": 934
           }
         },
         {
@@ -950,6 +950,21 @@
         },
         {
           "node_type": "item",
+          "title": "鲁迅.skill",
+          "description": "luxun-skill @Panmax 将鲁迅的批判精神与杂文笔法蒸馏为思维技能，以匕首投枪般的文字直击要害。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911295,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:19Z",
+            "owner": "nuwa-skills",
+            "repo": "luxun-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "陈震.skill",
           "description": "zhen-ge-skill @LBatsoft 蒸馏汽车评测人陈震的三维分析框架（性能、质感、价值），还原「这你受得了吗」的选车逻辑与效率优先世界观",
           "children": [],
@@ -1050,21 +1065,6 @@
             "last_commit": "2026-07-25T01:06:54Z",
             "owner": "nuwa-skills",
             "repo": "davinci-skill",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "鲁迅.skill",
-          "description": "luxun-skill @Panmax 将鲁迅的批判精神与杂文笔法蒸馏为思维技能，以匕首投枪般的文字直击要害。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1207911295,
-            "language": null,
-            "last_commit": "2026-07-25T01:07:19Z",
-            "owner": "nuwa-skills",
-            "repo": "luxun-skill",
             "stars": 2
           }
         },
@@ -3188,10 +3188,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:36.139Z",
+    "last_updated": "2026-08-26T04:06:39.165Z",
     "original_repository": "mliu98/awesome-human-distillation",
     "original_repository_id": 1199916658,
-    "original_repository_sha": "165c8e4fcee50c59ce43538403e3d6ec50cbf635",
+    "original_repository_sha": "79e81f1a8e0b835620e2c4b75692d1f8ec4b2299",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
