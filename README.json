@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31613,
+            "stars": 31637,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 32,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24104,
+            "stars": 24118,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -770,7 +770,7 @@
             "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10211,
+            "stars": 10212,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3747,
+            "stars": 3748,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2594,
+            "stars": 2597,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:39:07.011Z",
+    "last_updated": "2026-08-29T10:12:21.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4570,7 +4570,7 @@
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 734,
+      "stars": 736,
       "topics": [
         "agent-skills",
         "awesome-list",
