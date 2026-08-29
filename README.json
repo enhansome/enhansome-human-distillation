@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+            "homepage": null,
             "id": 1201730379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:02:26Z",
+            "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31583
+            "stars": 31613,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
+            "homepage": null,
             "id": 1199437437,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-02T23:09:50Z",
+            "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2403
+            "stars": 2406,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -42,12 +52,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。",
+            "homepage": "https://agenworld.com",
             "id": 1198654685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-15T03:21:58Z",
+            "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1007
+            "stars": 1008,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "chatbot",
+              "cursor",
+              "digital-immortality",
+              "digital-twin",
+              "distillation",
+              "feishu",
+              "llm",
+              "openclaw",
+              "persona",
+              "soul-spec",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -58,12 +87,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code",
+            "homepage": null,
             "id": 1207908536,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-07-25T01:41:26Z",
+            "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 334
+            "stars": 335,
+            "topics": [
+              "agent-skills",
+              "awesome-list",
+              "claude-code",
+              "claude-code-skills",
+              "digital-life",
+              "human-distillation"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -74,12 +115,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+            "homepage": "https://emulo.vercel.app",
             "id": 1293528352,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:30:47Z",
+            "open_issues": 21,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 276
+            "stars": 278,
+            "topics": [
+              "agent-memory",
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ai-coding",
+              "ai-memory",
+              "claude",
+              "claude-code",
+              "codex",
+              "context-engineering",
+              "cursor",
+              "developer-tools",
+              "llm",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "memory",
+              "model-context-protocol",
+              "opencode",
+              "personalization"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -90,12 +157,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声 · Claude Code Skill",
+            "homepage": null,
             "id": 1201394364,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T10:49:12Z",
+            "open_issues": 1,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "claude-skill",
+              "digital-twin",
+              "memory",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -106,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
+            "homepage": null,
             "id": 1202829616,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-07T01:26:23Z",
+            "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 113
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -122,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "数字人生.skills — 用数字痕迹照见真实的自己",
+            "homepage": null,
             "id": 1197977137,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-30T15:49:14Z",
+            "open_issues": 0,
             "owner": "wildbyteai",
             "repo": "digital-life",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -138,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1198642719,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-01T17:09:20Z",
+            "open_issues": 1,
             "owner": "moyitech",
             "repo": "self-skill",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -154,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a high-fidelity AI twin of yourself from your own data | 用你自己的数据创建 AI 数字分身",
+            "homepage": null,
             "id": 1202372280,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T01:52:14Z",
+            "open_issues": 0,
             "owner": "FredHJC",
             "repo": "digital-twin-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -176,12 +276,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+            "homepage": null,
             "id": 1195828337,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:18:07Z",
+            "open_issues": 32,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24080
+            "stars": 24104,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-assistants",
+              "ai-persona",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "codex-skills",
+              "deepseek-harness",
+              "digital-human",
+              "dsh-plugin",
+              "hermes-agent",
+              "knowledge-distillation",
+              "llm-agent",
+              "meta-skill",
+              "openclaw",
+              "opencode"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -192,12 +317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the liberation of productivity for yourself.",
+            "homepage": null,
             "id": 1197329615,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-11T05:53:25Z",
+            "open_issues": 4,
             "owner": "vogtsw",
             "repo": "boss-skills",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -208,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前同事的厉鬼, 抵制将员工变成数字人",
+            "homepage": null,
             "id": 1200465982,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-03T13:22:22Z",
+            "open_issues": 0,
             "owner": "Trailblazer-Aha",
             "repo": "vengeful-ghost-skill",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -230,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1196855158,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-07T04:55:47Z",
+            "open_issues": 6,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -246,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill。",
+            "homepage": null,
             "id": 1199435898,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-10T08:36:02Z",
+            "open_issues": 3,
             "owner": "zhang-haichao",
             "repo": "senpai-skill",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -262,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "把不会划重点的老师，蒸馏成会救你期末的 Skill. Distill course materials into professor-style review, question patterns, and grading hints.",
+            "homepage": null,
             "id": 1200074797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-11T10:06:59Z",
+            "open_issues": 5,
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -278,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "从发表的论文中，蒸馏导师甚至一整个答辩委员会...来实现对论文的精准指导（批评）",
+            "homepage": null,
             "id": 1198597976,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-02T06:19:51Z",
+            "open_issues": 0,
             "owner": "Azurboy",
             "repo": "Professor_skill",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -300,12 +455,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+            "homepage": null,
             "id": 1197308263,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T14:48:44Z",
+            "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1072
+            "stars": 1073,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "claude-code",
+              "distillation",
+              "openclaw",
+              "persona",
+              "skill-generator"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -316,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "希望大家能在一段健康的关系中学会如何正确的表达情绪，表达爱。祝天下有情人终成眷属。I hope everyone can learn how to express emotions and love in a healthy relationship. Wishing all lovers a happy ending.",
+            "homepage": "https://relationship-training-skill.vercel.app",
             "id": 1200441366,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-04-09T05:23:33Z",
+            "open_issues": 1,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -332,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distill your partner into a living AI Skill. Relationship maintenance and enhancement powered by attachment theory, social exchange theory, and love psychology.",
+            "homepage": null,
             "id": 1201391063,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-04T18:29:43Z",
+            "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -348,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You should go and love yourself. 把自己蒸馏成自己的恋爱伴侣，用自己的方式跟自己说话。Inspired by colleague-skill & ex-skill & npy-skill.",
+            "homepage": null,
             "id": 1204011601,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-09T16:34:09Z",
+            "open_issues": 1,
             "owner": "Cyh29hao",
             "repo": "shuixian-skill",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -364,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1198530119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-04T13:14:21Z",
+            "open_issues": 0,
             "owner": "wwwttlll",
             "repo": "npy-skill",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -380,12 +568,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
+            "homepage": null,
             "id": 1206820090,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-10T10:32:40Z",
+            "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "brother-skill",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai-agents",
+              "bro",
+              "brother",
+              "claude-code",
+              "comedy",
+              "friend",
+              "hermes-agent",
+              "influencer",
+              "internet",
+              "openclaw",
+              "self-learning",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -396,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1200563107,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-03T15:41:01Z",
+            "open_issues": 0,
             "owner": "z969081067-commits",
             "repo": "first-love-skill",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -412,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将恋爱双方蒸馏成AI skill，实现赛博恋爱，用于快速验证双方性格。",
+            "homepage": null,
             "id": 1210417536,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T08:05:03Z",
+            "open_issues": 0,
             "owner": "YuzeHao2023",
             "repo": "love-skill",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -428,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crush Skill — 暧昧期消息预测 & 模拟对话，在你按下发送键之前，先看看 TA 可能怎么回",
+            "homepage": null,
             "id": 1200200481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-03T06:33:02Z",
+            "open_issues": 0,
             "owner": "yyyyyyylll",
             "repo": "crush-skill",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -444,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "发出去之前，先译一下。基于真实微信聊天记录的关系理解工具。",
+            "homepage": null,
             "id": 1193510109,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-01T10:37:44Z",
+            "open_issues": 0,
             "owner": "kroxchan",
             "repo": "xinyi",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -466,12 +692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "与其向往远方的山海，不如感恩身后的港湾。欢迎加入数字永生！Inspired by colleague-skill（同事skill）.",
+            "homepage": null,
             "id": 1199062292,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-02T14:09:12Z",
+            "open_issues": 1,
             "owner": "xiaoheizi8",
             "repo": "parents-skills",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -482,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Not an AI, just a local echo of someone you love. 把逝去亲友的数字遗物蒸馏成纯本地运行的 MCP Skill，为思念写一段永不超时的回调函数。",
+            "homepage": null,
             "id": 1199393937,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T08:46:09Z",
+            "open_issues": 2,
             "owner": "yangdongchen66-boop",
             "repo": "reunion-skill",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -498,12 +734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个用于珍藏回忆、重构挚爱本真的数字圣所A Digital Sanctuary for Preserving Memories and Reconstructing the Essence of Our Loved Ones.",
+            "homepage": null,
             "id": 1201081784,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-04T08:28:31Z",
+            "open_issues": 1,
             "owner": "jiangziyan-693",
             "repo": "MamaSkill",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -520,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+            "homepage": null,
             "id": 1201947430,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T03:03:20Z",
+            "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10211
+            "stars": 10211,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -536,12 +782,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done. 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。",
+            "homepage": "http://hughyau.com/qiushi-skill/",
             "id": 1191520000,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:14:31Z",
+            "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3741
+            "stars": 3747,
+            "topics": [
+              "ai-agents",
+              "methodology",
+              "skills",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -552,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系",
+            "homepage": null,
             "id": 1202158137,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-22T07:00:28Z",
+            "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2594
+            "stars": 2594,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -568,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。",
+            "homepage": null,
             "id": 1202815922,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-19T11:59:07Z",
+            "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1080
+            "stars": 1080,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -584,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。",
+            "homepage": null,
             "id": 1201942857,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T03:05:14Z",
+            "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 939
+            "stars": 940,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -600,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Andrej Karpathy的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+            "homepage": null,
             "id": 1203030411,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T03:05:06Z",
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 297
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -616,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1210083915,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-14T06:11:51Z",
+            "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -632,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "峰哥skill",
+            "homepage": null,
             "id": 1202624649,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-07T13:15:15Z",
+            "open_issues": 2,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -648,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "谢胜子思维操作系统 Skill | 基于女娲框架蒸馏，包含5个核心心智模型、8条决策启发式和完整表达DNA",
+            "homepage": null,
             "id": 1222284068,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-28T03:08:43Z",
+            "open_issues": 0,
             "owner": "Crystalzhou666",
             "repo": "xie-shengzi",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -664,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ilya Sutskever的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+            "homepage": null,
             "id": 1203030380,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T03:04:37Z",
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 47
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -680,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1202551524,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-06T11:59:14Z",
+            "open_issues": 1,
             "owner": "123pyLeo",
             "repo": "hu-chen-feng-skill",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -696,12 +997,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arming AI with Marxist methodology for deep structural analysis",
+            "homepage": null,
             "id": 1201741145,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-05T07:20:00Z",
+            "open_issues": 1,
             "owner": "baojiachen0214",
             "repo": "karlmarx-skill",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "claude",
+              "critical-thinking",
+              "first-principles",
+              "gpt",
+              "llm",
+              "marxist-methodology",
+              "prompt-engineering",
+              "structural-analysis"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -712,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "王阳明.skill — 知行合一/心学/决策哲学的思维操作系统",
+            "homepage": null,
             "id": 1207874640,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:40Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -728,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"能和AI聊天就不要和人类聊天。\" — 孙哥",
+            "homepage": null,
             "id": 1203264139,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-07T03:02:55Z",
+            "open_issues": 0,
             "owner": "xuzhouli2020-design",
             "repo": "Cyber-Sun-Ge",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -744,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1201019365,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-05T14:58:07Z",
+            "open_issues": 1,
             "owner": "jiemojiemo",
             "repo": "up-skill",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -760,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1205838993,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-09T11:06:11Z",
+            "open_issues": 0,
             "owner": "ByteRax",
             "repo": "guodegang-skills",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -776,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统",
+            "homepage": null,
             "id": 1207874784,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:30Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "socrates-skill",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -792,12 +1134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "巴菲特.skill — 价值投资/长期主义/护城河思维的思维操作系统",
+            "homepage": null,
             "id": 1207875287,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:52Z",
+            "open_issues": 1,
             "owner": "nuwa-skills",
             "repo": "buffett-skill",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -808,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945186,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:27Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianxuesen-skill",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -824,12 +1176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "内娱.skill - 将歌手/偶像转化为可对话的AI数字人格",
+            "homepage": null,
             "id": 1200216568,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T09:54:03Z",
+            "open_issues": 1,
             "owner": "yanghaoraneve",
             "repo": "star-skill",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -840,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "费曼.skill — 第一性原理学习/化繁为简/科学直觉的思维操作系统",
+            "homepage": null,
             "id": 1207875330,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:01Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "feynman-skill",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -856,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1201932967,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-06T11:51:23Z",
+            "open_issues": 0,
             "owner": "wwwttlll",
             "repo": "Trump-skill",
-            "stars": 4
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -872,12 +1239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913619,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:40Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangxiaobo-skill",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -888,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915492,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:58Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "duanyongping-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -904,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912172,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:25Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "nietzsche-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -920,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910978,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:16Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "leijun-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -936,12 +1323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "老子.skill — 无为而治/道法自然/系统思维的思维操作系统",
+            "homepage": null,
             "id": 1207874728,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "laozi-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -952,12 +1344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912977,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:32Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sunzi-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -968,12 +1365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统",
+            "homepage": null,
             "id": 1207874692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:43Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zengguofan-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -984,12 +1386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "冯唐.skill — 冯唐的认知操作系统。九字真言、金线论、成事四勿、跨界杠杆、终极审美。",
+            "homepage": null,
             "id": 1207864590,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:01Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "fengtang-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1000,12 +1407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "孔子的认知操作系统。基于《论语》等经典提炼的可运行思维框架。",
+            "homepage": null,
             "id": 1207829225,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kongzi-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1016,12 +1428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911295,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:19Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "luxun-skill",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1032,12 +1449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1203731251,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-07T10:40:13Z",
+            "open_issues": 0,
             "owner": "LBatsoft",
             "repo": "zhen-ge-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1048,12 +1470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911560,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:22Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "marks-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1064,12 +1491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913416,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:36Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "vonneumann-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1080,12 +1512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910531,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:10Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hushi-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1096,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911920,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:23Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1112,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909470,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:54Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dalio-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1128,12 +1575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "达芬奇.skill — 跨学科创造力/观察方法/好奇心驱动的思维操作系统",
+            "homepage": null,
             "id": 1207874829,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:54Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "davinci-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1144,12 +1596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912844,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:33Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "soros-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1160,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911691,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:23Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mihaly-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1176,12 +1638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910135,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:06Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "grahamben-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1192,12 +1659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945641,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "borges-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1208,12 +1680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "李小龙.skill — 截拳道哲学/自我突破/去除冗余的思维操作系统",
+            "homepage": null,
             "id": 1207875254,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:50Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "brucelee-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1224,12 +1701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913778,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:40Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wujun-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1240,12 +1722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "稻盛和夫.skill — 经营哲学/利他主义/阿米巴管理的思维操作系统",
+            "homepage": null,
             "id": 1207875198,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:09Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "inamori-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1256,12 +1743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913372,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:38Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "turing-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1272,12 +1764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909535,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:53Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "darwin-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1288,12 +1785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910694,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:10Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kant-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1304,12 +1806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910938,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:15Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kurosawa-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1320,12 +1827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909846,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:01Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "epictetus-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1336,12 +1848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912122,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:27Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "newton-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1352,12 +1869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909706,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "drucker-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1368,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908744,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "adler-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1384,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910184,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:05Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "grove-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1400,12 +1932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913664,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:41Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "welch-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1416,12 +1953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910268,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:06Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hanfeizi-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1432,12 +1974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910586,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:09Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "jung-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1448,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913166,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:34Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "thichnhathanh-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1464,12 +2016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "富兰克林.skill — 自我修炼/实用主义/习惯系统的思维操作系统",
+            "homepage": null,
             "id": 1207875143,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:01Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "franklin-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1480,12 +2037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910007,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:03Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "frankl-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1496,12 +2058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913963,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangyiming-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1512,12 +2079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207914010,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:47Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhuangzi-skill",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1528,12 +2100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909082,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bogle-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1544,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911974,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:25Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mozi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1560,12 +2142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913825,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:42Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "xunzi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1576,12 +2163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207914126,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:47Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhuxi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1592,12 +2184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910219,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:05Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "guiguzi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1608,12 +2205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207914062,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhugeliang-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1624,12 +2226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912945,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:31Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sudongpo-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1640,12 +2247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913548,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:38Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangfuzhi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1656,12 +2268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912461,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:29Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "plato-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1672,12 +2289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908904,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "aristotle-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1688,12 +2310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908956,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "aurelius-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1704,12 +2331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912681,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:29Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "seneca-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1720,12 +2352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915636,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:31Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "schopenhauer-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1736,12 +2373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911875,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:23Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montaigne-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1752,12 +2394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913721,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:42Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wittgenstein-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1768,12 +2415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945140,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:05Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "heraclitus-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1784,12 +2436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207944993,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:02Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "foucault-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1800,12 +2457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945039,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "arendt-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1816,12 +2478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945087,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "beauvoir-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1832,12 +2499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909751,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:58Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "einstein-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1848,12 +2520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909413,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:52Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "curie-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1864,12 +2541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913120,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:33Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "tesla-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1880,12 +2562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912736,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:30Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "shannon-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1896,12 +2583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909371,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:52Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "copernicus-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1912,12 +2604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909898,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:59Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "faraday-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1928,12 +2625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945242,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "knuth-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1944,12 +2646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945293,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:31Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sagan-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1960,12 +2667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945835,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:41Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "yangzhenning-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1976,12 +2688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909043,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bezos-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1992,12 +2709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913447,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:37Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "walton-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2008,12 +2730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911611,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:21Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "matsushita-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2024,12 +2751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909969,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:02Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ford-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2040,12 +2772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207944817,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:36Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzukitoshifumi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2056,12 +2793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945335,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:39Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "webb-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2072,12 +2814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912567,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:29Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "renzhengfei-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2088,12 +2835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911647,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:20Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mayun-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2104,12 +2856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911458,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:21Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mahuateng-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2120,12 +2877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915549,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:08Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "huangzheng-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2136,12 +2898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915681,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:41Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangxing-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2152,12 +2919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207920532,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:18Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liuqiangdong-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2168,12 +2940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909169,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:52Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "caodewang-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2184,12 +2961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909660,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dongmingzhu-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2200,12 +2982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913863,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "yuminhong-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2216,12 +3003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913506,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:37Z",
+            "open_issues": 1,
             "owner": "nuwa-skills",
             "repo": "wangchuanfu-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2232,12 +3024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913907,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangxiaolong-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2248,12 +3045,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207914174,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zongqinghou-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2264,12 +3066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911264,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:16Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liyanhong-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2280,12 +3087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909632,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dinglei-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2296,12 +3108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915710,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:47Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhouhongyi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2312,12 +3129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911212,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liuyonghao-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2328,12 +3150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913583,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:39:45Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangjianlin-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2344,12 +3171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911027,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:43Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liangjianzhang-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2360,12 +3192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912777,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:39:29Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "shiyuzhu-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2376,12 +3213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207915591,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:44Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lishufu-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2392,12 +3234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910485,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:08Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "huangrenxun-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2408,12 +3255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。",
+            "homepage": null,
             "id": 1207851329,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:43Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangxue-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2424,12 +3276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911344,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:20Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lynch-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2440,12 +3297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913212,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:34Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "thiel-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2456,12 +3318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912319,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:28Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "pggraham-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2472,12 +3339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910738,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kevinkelly-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2488,12 +3360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913317,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:38Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "torvalds-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2504,12 +3381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207944869,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "altman-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2520,12 +3402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207944915,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:09Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hoffman-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2536,12 +3423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207944963,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:08Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "horowitz-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2552,12 +3444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945921,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:25Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ohmae-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2568,12 +3465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911160,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:18Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "linyutang-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2584,12 +3486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912515,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:27Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianzhongshu-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2600,12 +3507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910446,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:06Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hemingway-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2616,12 +3528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912018,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:23Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "murakami-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2632,12 +3549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912216,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:28Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "orwell-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2648,12 +3570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913276,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:35Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "tolstoy-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2664,12 +3591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912899,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:31Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "stephenking-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2680,12 +3612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945598,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:12Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kafka-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2696,12 +3633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dazai-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2712,12 +3654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945740,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:21Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mckee-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2728,12 +3675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910637,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:10Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kahneman-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2744,12 +3696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909217,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:53Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "churchill-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2760,12 +3717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911107,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:16Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lincoln-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2776,12 +3738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910055,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:01Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "gandhi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2792,12 +3759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911512,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:21Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mandela-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2808,12 +3780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911072,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:18Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liguangyao-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2824,12 +3801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912074,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:39:16Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "napoleon-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2840,12 +3822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909276,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:54Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "clausewitz-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2856,12 +3843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911401,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:51Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "machiavelli-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2872,12 +3864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945403,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:50Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "caocao-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2888,12 +3885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945448,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:18Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liubang-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2904,12 +3906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945489,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:43Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangjuzheng-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2920,12 +3927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945548,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:50Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bismarck-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2936,12 +3948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911787,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:56Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "miyazaki-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2952,12 +3969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908990,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "beethoven-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2968,12 +3990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908843,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ando-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2984,12 +4011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912430,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:27Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "picasso-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3000,12 +4032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945786,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:36Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzukitoshio-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3016,12 +4053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911837,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:25Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mjordan-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3032,12 +4074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910843,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:11Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kobe-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3048,12 +4095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912367,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:27Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "philjackson-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3064,12 +4116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909575,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dewey-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3080,12 +4137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913058,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:36Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "taoxingzhi-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3096,12 +4158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908697,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "adamsmith-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3112,12 +4179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910790,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "keynes-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3128,12 +4200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910394,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:04Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hayek-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3144,12 +4221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912629,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:31Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "schumpeter-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3160,12 +4242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207911737,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:25Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mises-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3176,12 +4263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207913025,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:34Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzuki-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3192,12 +4284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910900,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:14Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "krishnamurti-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3208,12 +4305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909130,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:50Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "campbell-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3224,12 +4326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909796,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:57Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "emerson-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3240,12 +4347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207908791,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "alanwatts-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3256,12 +4368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910336,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:07:06Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "harari-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3272,12 +4389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207912255,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:39:18Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "peterson-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3288,12 +4410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909937,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:03Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ferriss-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3304,12 +4431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207909330,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:37:47Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "clear-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3320,12 +4452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207910102,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T00:38:08Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "gladwell-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3336,12 +4473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1207945876,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-25T01:06:50Z",
+            "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "charlierose-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3352,12 +4494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "提炼维舟在社会议题上的心智与思维框架，形成可复用的视角，用于分析热点议题或评价具体观点",
+            "homepage": null,
             "id": 1208326663,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-13T03:12:48Z",
+            "open_issues": 0,
             "owner": "TerryTian-tech",
             "repo": "AIWeiZhou-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3368,12 +4515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Now: activate your cyber Jackson Wang today🚨",
+            "homepage": null,
             "id": 1225776768,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-01T03:11:30Z",
+            "open_issues": 0,
             "owner": "NH3Lan",
             "repo": "jackson-wang",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "claude-skill",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -3384,12 +4539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "William Stewart Halsted视角Skill — 现代外科之父的系统思维框架",
+            "homepage": null,
             "id": 1258203258,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-03T11:22:55Z",
+            "open_issues": 0,
             "owner": "MeghanBao",
             "repo": "halsted-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         }
@@ -3398,15 +4558,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:29:09.326Z",
+    "last_updated": "2026-08-29T04:39:07.011Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated catalog of human distillliation agent skills",
+      "homepage": null,
       "id": 1199916658,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-28T13:29:25Z",
+      "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 733
+      "stars": 734,
+      "topics": [
+        "agent-skills",
+        "awesome-list",
+        "claude-code",
+        "claude-code-skills",
+        "digital-life",
+        "human-distillation"
+      ]
     },
     "original_repository_sha": "512af0a1371e3015e33afa13234871cf95e09523",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
