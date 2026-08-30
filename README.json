@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T03:02:26Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31637,
+            "stars": 31701,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1008,
+            "stars": 1011,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 336,
+            "stars": 338,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 21,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -285,7 +285,7 @@
             "open_issues": 32,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24118,
+            "stars": 24150,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -374,7 +374,7 @@
             "open_issues": 6,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -722,7 +722,7 @@
             "open_issues": 2,
             "owner": "yangdongchen66-boop",
             "repo": "reunion-skill",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10212,
+            "stars": 10218,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3748,
+            "stars": 3752,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2597,
+            "stars": 2598,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 940,
+            "stars": 939,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -964,7 +964,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangxiaobo-skill",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -2095,6 +2095,27 @@
         },
         {
           "node_type": "item",
+          "title": "王夫之.skill",
+          "description": "wangfuzhi-skill @Panmax 化身王夫之，以经世致用的实学精神帮你直面现实、批判思考、求真务实。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207913548,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:07:38Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "wangfuzhi-skill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -2235,27 +2256,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sudongpo-skill",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "王夫之.skill",
-          "description": "wangfuzhi-skill @Panmax 化身王夫之，以经世致用的实学精神帮你直面现实、批判思考、求真务实。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207913548,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:07:38Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "wangfuzhi-skill",
             "stars": 0,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:12:21.934Z",
+    "last_updated": "2026-08-30T09:20:15.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,11 +4566,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-28T13:29:25Z",
+      "last_commit": "2026-08-30T07:38:21Z",
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 736,
+      "stars": 737,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "512af0a1371e3015e33afa13234871cf95e09523",
+    "original_repository_sha": "5f354efe53ecad73c7980718952b48eba9b9da64",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
