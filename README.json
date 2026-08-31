@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31701,
+            "stars": 31773,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1011,
+            "stars": 1016,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 338,
+            "stars": 341,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 21,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -147,6 +147,27 @@
               "opencode",
               "personalization"
             ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Anyone to Skill",
+          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
+            "homepage": null,
+            "id": 1202829616,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-07T01:26:23Z",
+            "open_issues": 0,
+            "owner": "OpenDemon",
+            "repo": "anyone-to-skill",
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -176,27 +197,6 @@
               "persona",
               "prompt-engineering"
             ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Anyone to Skill",
-          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
-            "homepage": null,
-            "id": 1202829616,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-07T01:26:23Z",
-            "open_issues": 0,
-            "owner": "OpenDemon",
-            "repo": "anyone-to-skill",
-            "stars": 114,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -285,7 +285,7 @@
             "open_issues": 32,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24150,
+            "stars": 24195,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -374,7 +374,7 @@
             "open_issues": 6,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -391,7 +391,7 @@
             "id": 1199435898,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-10T08:36:02Z",
+            "last_commit": "2026-08-31T07:34:43Z",
             "open_issues": 3,
             "owner": "zhang-haichao",
             "repo": "senpai-skill",
@@ -770,7 +770,7 @@
             "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10218,
+            "stars": 10223,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3752,
+            "stars": 3754,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2598,
+            "stars": 2600,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1080,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -985,7 +985,7 @@
             "open_issues": 1,
             "owner": "123pyLeo",
             "repo": "hu-chen-feng-skill",
-            "stars": 24,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:20:15.443Z",
+    "last_updated": "2026-08-31T09:53:39.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,11 +4566,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-30T07:38:21Z",
+      "last_commit": "2026-08-31T07:49:46Z",
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 737,
+      "stars": 739,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "5f354efe53ecad73c7980718952b48eba9b9da64",
+    "original_repository_sha": "43922674761cda5b3e234da43d0f99937a66d44d",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
