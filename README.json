@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31773,
+            "stars": 31832,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1016,
+            "stars": 1019,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 341,
+            "stars": 345,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -282,10 +282,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T07:18:07Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24195,
+            "stars": 24225,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -493,7 +493,7 @@
             "open_issues": 1,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 121,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10223,
+            "stars": 10224,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3754,
+            "stars": 3756,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2600,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1084,
+            "stars": 1085,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 939,
+            "stars": 941,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -2116,6 +2116,27 @@
         },
         {
           "node_type": "item",
+          "title": "香农.skill",
+          "description": "shannon-skill @Panmax 将香农的信息论思维、化繁为简的天赋与创造性玩耍精神蒸馏为思维技能，把复杂问题简化为优雅的数学模型，在玩乐中发现本质。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207912736,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:07:30Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "shannon-skill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -2550,27 +2571,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "tesla-skill",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "香农.skill",
-          "description": "shannon-skill @Panmax 将香农的信息论思维、化繁为简的天赋与创造性玩耍精神蒸馏为思维技能，把复杂问题简化为优雅的数学模型，在玩乐中发现本质。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207912736,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:07:30Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "shannon-skill",
             "stars": 0,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:53:39.653Z",
+    "last_updated": "2026-09-01T08:45:24.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-31T07:49:46Z",
+      "last_commit": "2026-09-01T06:55:46Z",
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "43922674761cda5b3e234da43d0f99937a66d44d",
+    "original_repository_sha": "6ac8f695de7ccdb8a65ac38d5353c58fda990a9a",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
