@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 31899,
+            "stars": 31954,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2408,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1021,
+            "stars": 1026,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 347,
+            "stars": 351,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 21,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 282,
+            "stars": 285,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -279,13 +279,13 @@
             "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
             "homepage": null,
             "id": 1195828337,
-            "language": "Python",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:43:00Z",
+            "last_commit": "2026-09-03T03:40:48Z",
             "open_issues": 33,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24258,
+            "stars": 24303,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1073,
+            "stars": 1074,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -770,7 +770,7 @@
             "open_issues": 22,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10227,
+            "stars": 10232,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3759,
+            "stars": 3761,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2605,
+            "stars": 2607,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1090,
+            "stars": 1096,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:59:28.176Z",
+    "last_updated": "2026-09-03T08:09:04.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4570,7 +4570,7 @@
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 741,
+      "stars": 740,
       "topics": [
         "agent-skills",
         "awesome-list",
