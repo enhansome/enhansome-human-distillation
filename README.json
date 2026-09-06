@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 32066,
+            "stars": 32108,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2411,
+            "stars": 2413,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -121,7 +121,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T18:30:47Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "ohad6k",
             "repo": "emulo",
             "stars": 288,
@@ -281,11 +281,11 @@
             "id": 1195828337,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T11:54:10Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-06T06:18:46Z",
+            "open_issues": 33,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24361,
+            "stars": 24381,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1075,
+            "stars": 1076,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10247,
+            "stars": 10249,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -787,11 +787,11 @@
             "id": 1191520000,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T13:14:31Z",
+            "last_commit": "2026-09-06T07:38:18Z",
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3766,
+            "stars": 3769,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2605,
+            "stars": 2607,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -835,10 +835,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-19T11:59:07Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1107,
+            "stars": 1109,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -3684,7 +3684,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mckee-skill",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:44:40.311Z",
+    "last_updated": "2026-09-06T07:58:53.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4570,7 +4570,7 @@
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 740,
+      "stars": 741,
       "topics": [
         "agent-skills",
         "awesome-list",
