@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 32108,
+            "stars": 32171,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2413,
+            "stars": 2417,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1029,
+            "stars": 1030,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 353,
+            "stars": 355,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 22,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 114,
+            "stars": 116,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -285,7 +285,7 @@
             "open_issues": 33,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24381,
+            "stars": 24406,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1076,
+            "stars": 1078,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -611,7 +611,7 @@
             "open_issues": 0,
             "owner": "z969081067-commits",
             "repo": "first-love-skill",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2607,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1109,
+            "stars": 1112,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 944,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 1,
             "owner": "baojiachen0214",
             "repo": "karlmarx-skill",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "ai",
               "chatgpt",
@@ -1038,7 +1038,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1087,27 +1087,6 @@
         },
         {
           "node_type": "item",
-          "title": "郭德纲.skill",
-          "description": "guodegang-skills @ByteRax 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1205838993,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-09T11:06:11Z",
-            "open_issues": 0,
-            "owner": "ByteRax",
-            "repo": "guodegang-skills",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "苏格拉底.skill",
           "description": "socrates-skill @Panmax 蒸馏苏格拉底的提问框架：产婆术、认知谦逊、批判性思维……用他的追问方法帮你穿透表象、认识自己",
           "children": [],
@@ -1122,6 +1101,27 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "socrates-skill",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "郭德纲.skill",
+          "description": "guodegang-skills @ByteRax 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1205838993,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-09T11:06:11Z",
+            "open_issues": 0,
+            "owner": "ByteRax",
+            "repo": "guodegang-skills",
             "stars": 12,
             "topics": []
           },
@@ -2151,6 +2151,27 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liguangyao-skill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "罗伯特·麦基.skill",
+          "description": "mckee-skill @Panmax 蒸馏罗伯特·麦基的故事方法论：故事结构、编剧原理、场景设计……用他的叙事框架解构你的创作与人生叙事",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207945740,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:07:21Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "mckee-skill",
             "stars": 1,
             "topics": []
           },
@@ -3670,27 +3691,6 @@
         },
         {
           "node_type": "item",
-          "title": "罗伯特·麦基.skill",
-          "description": "mckee-skill @Panmax 蒸馏罗伯特·麦基的故事方法论：故事结构、编剧原理、场景设计……用他的叙事框架解构你的创作与人生叙事",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207945740,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:07:21Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "mckee-skill",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "卡尼曼.skill",
           "description": "kahneman-skill @Panmax 以卡尼曼的视角回应你 —— 系统1与系统2、认知偏误与理性决策的温和而实证的对话伙伴。",
           "children": [],
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:58:53.184Z",
+    "last_updated": "2026-09-07T08:27:19.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,11 +4566,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-04T06:40:24Z",
+      "last_commit": "2026-09-07T06:45:27Z",
       "open_issues": 4,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 741,
+      "stars": 742,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "ec602912125dafd798194135ee324158f917347e",
+    "original_repository_sha": "807526dea3d4bffbd54f5538e4d18d8ec0b4bc58",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
