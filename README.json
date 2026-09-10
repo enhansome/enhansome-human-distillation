@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T03:02:26Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 32306,
+            "stars": 32358,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2421,
+            "stars": 2420,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 358,
+            "stars": 361,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -258,7 +258,7 @@
             "open_issues": 0,
             "owner": "FredHJC",
             "repo": "digital-twin-skill",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -282,10 +282,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T06:18:46Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24456,
+            "stars": 24569,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -326,7 +326,7 @@
             "open_issues": 4,
             "owner": "vogtsw",
             "repo": "boss-skills",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -374,7 +374,7 @@
             "open_issues": 6,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10259,
+            "stars": 10260,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2607,
+            "stars": 2611,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1122,
+            "stars": 1128,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 299,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1038,7 +1038,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:14:43.168Z",
+    "last_updated": "2026-09-10T08:14:02.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
