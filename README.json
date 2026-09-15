@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 32603,
+            "stars": 32676,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -281,11 +281,11 @@
             "id": 1195828337,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:15:02Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-15T08:28:09Z",
+            "open_issues": 56,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24697,
+            "stars": 24752,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -493,7 +493,7 @@
             "open_issues": 1,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 125,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10279,
+            "stars": 10283,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2615,
+            "stars": 2617,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1139,
+            "stars": 1146,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 204,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:04:00.574Z",
+    "last_updated": "2026-09-15T08:47:26.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,8 +4566,8 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-13T06:55:32Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-14T20:34:04Z",
+      "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
       "stars": 745,
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "2f9082c0557ba8a46d5ca5a0bd9b7391d07d82bb",
+    "original_repository_sha": "272bacfdd9427b52d4befd4b0cd6d3ef76abfbb9",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
