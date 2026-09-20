@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 32893,
+            "stars": 32966,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2434,
+            "stars": 2431,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1045,
+            "stars": 1046,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 56,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24873,
+            "stars": 24900,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -597,27 +597,6 @@
         },
         {
           "node_type": "item",
-          "title": "初恋.skill",
-          "description": "first-love-skill @z969081067-commits 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1200563107,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-03T15:41:01Z",
-            "open_issues": 0,
-            "owner": "z969081067-commits",
-            "repo": "first-love-skill",
-            "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "相亲.skill",
           "description": "相亲.skill @YuzeHao2023 正式恋爱之前先蒸馏双方赛博恋爱-通过消耗AI token节省真人token",
           "children": [],
@@ -632,6 +611,27 @@
             "open_issues": 0,
             "owner": "YuzeHao2023",
             "repo": "love-skill",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "初恋.skill",
+          "description": "first-love-skill @z969081067-commits 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1200563107,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-03T15:41:01Z",
+            "open_issues": 0,
+            "owner": "z969081067-commits",
+            "repo": "first-love-skill",
             "stars": 15,
             "topics": []
           },
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10309,
+            "stars": 10315,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3785,
+            "stars": 3788,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2622,
+            "stars": 2626,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1157,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 946,
+            "stars": 948,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:09:05.594Z",
+    "last_updated": "2026-09-20T08:41:21.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-18T06:50:03Z",
+      "last_commit": "2026-09-20T07:14:25Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "7db08bc636d7cb75ae601dfa31fdc1c1cd2f79ce",
+    "original_repository_sha": "27ee975dfff1d4219dc5c4bb8d542b4b834c43d3",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
