@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T03:02:26Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33127,
+            "stars": 33170,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2432,
+            "stars": 2433,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 24980,
+            "stars": 25006,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "brother-skill",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-agents",
               "bro",
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10322,
+            "stars": 10328,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3792,
+            "stars": 3793,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2654,
+            "stars": 2660,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1169,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 948,
+            "stars": 950,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 301,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -964,7 +964,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1129,27 +1129,6 @@
         },
         {
           "node_type": "item",
-          "title": "巴菲特.skill",
-          "description": "buffett-skill @Panmax 蒸馏巴菲特的投资思维：价值投资、护城河、长期主义……用他的认知框架帮你做出更好的投资与商业决策",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "巴菲特.skill — 价值投资/长期主义/护城河思维的思维操作系统",
-            "homepage": null,
-            "id": 1207875287,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:06:52Z",
-            "open_issues": 1,
-            "owner": "nuwa-skills",
-            "repo": "buffett-skill",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "钱学森.skill",
           "description": "qianxuesen-skill @Panmax 蒸馏钱学森的系统工程思维：跨学科整合、航天精神、从全局看问题……用系统工程之父的视角分析复杂系统问题",
           "children": [],
@@ -1165,6 +1144,27 @@
             "owner": "nuwa-skills",
             "repo": "qianxuesen-skill",
             "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "巴菲特.skill",
+          "description": "buffett-skill @Panmax 蒸馏巴菲特的投资思维：价值投资、护城河、长期主义……用他的认知框架帮你做出更好的投资与商业决策",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "巴菲特.skill — 价值投资/长期主义/护城河思维的思维操作系统",
+            "homepage": null,
+            "id": 1207875287,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:06:52Z",
+            "open_issues": 1,
+            "owner": "nuwa-skills",
+            "repo": "buffett-skill",
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:41:23.389Z",
+    "last_updated": "2026-09-24T08:34:14.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,11 +4566,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-20T07:14:25Z",
+      "last_commit": "2026-09-24T06:54:39Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 747,
+      "stars": 748,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "27ee975dfff1d4219dc5c4bb8d542b4b834c43d3",
+    "original_repository_sha": "2077d6f45f43b9f3025a9c05a6753f22995a7ba1",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
