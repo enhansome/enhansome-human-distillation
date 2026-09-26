@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T03:02:26Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33203,
+            "stars": 33226,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 10,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2432,
+            "stars": 2431,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 6,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1055,
+            "stars": 1057,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -120,8 +120,8 @@
             "id": 1293528352,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-24T23:37:11Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-25T21:02:02Z",
+            "open_issues": 15,
             "owner": "ohad6k",
             "repo": "emulo",
             "stars": 292,
@@ -152,27 +152,6 @@
         },
         {
           "node_type": "item",
-          "title": "Anyone to Skill",
-          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
-            "homepage": null,
-            "id": 1202829616,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-07T01:26:23Z",
-            "open_issues": 0,
-            "owner": "OpenDemon",
-            "repo": "anyone-to-skill",
-            "stars": 119,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "forge-skill",
           "description": "forge-skill @YIKUAIBANZI 本地优先的人格引擎：蒸馏自己的决策盲点与表达模式，也可从聊天记录中提炼他人人格，支持多智能体决策与记忆驱动角色扮演",
           "children": [],
@@ -197,6 +176,27 @@
               "persona",
               "prompt-engineering"
             ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Anyone to Skill",
+          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
+            "homepage": null,
+            "id": 1202829616,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-07T01:26:23Z",
+            "open_issues": 0,
+            "owner": "OpenDemon",
+            "repo": "anyone-to-skill",
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25019,
+            "stars": 25036,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -542,6 +542,40 @@
         },
         {
           "node_type": "item",
+          "title": "兄弟.skill",
+          "description": "brother-skill @realteamprinz 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
+            "homepage": null,
+            "id": 1206820090,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-10T10:32:40Z",
+            "open_issues": 0,
+            "owner": "henryjohnbrand",
+            "repo": "brother-skill",
+            "stars": 20,
+            "topics": [
+              "ai-agents",
+              "bro",
+              "brother",
+              "claude-code",
+              "comedy",
+              "friend",
+              "hermes-agent",
+              "influencer",
+              "internet",
+              "openclaw",
+              "self-learning",
+              "skill"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "partner.skill",
           "description": "npy-skill @wwwttlll 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill",
           "children": [],
@@ -558,40 +592,6 @@
             "repo": "npy-skill",
             "stars": 19,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "兄弟.skill",
-          "description": "brother-skill @realteamprinz 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
-            "homepage": null,
-            "id": 1206820090,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-10T10:32:40Z",
-            "open_issues": 0,
-            "owner": "henryjohnbrand",
-            "repo": "brother-skill",
-            "stars": 19,
-            "topics": [
-              "ai-agents",
-              "bro",
-              "brother",
-              "claude-code",
-              "comedy",
-              "friend",
-              "hermes-agent",
-              "influencer",
-              "internet",
-              "openclaw",
-              "self-learning",
-              "skill"
-            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -770,7 +770,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10336,
+            "stars": 10339,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 19,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3794,
+            "stars": 3795,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 18,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2663,
+            "stars": 2667,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1173,
+            "stars": 1176,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1696,27 +1696,6 @@
         },
         {
           "node_type": "item",
-          "title": "博尔赫斯.skill",
-          "description": "borges-skill @Panmax 蒸馏博尔赫斯的迷宫思维：无限、镜像、时间分叉……用他的想象力框架照亮你的认知迷宫",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207945641,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "borges-skill",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "李小龙.skill",
           "description": "brucelee-skill @Panmax 李小龙的截拳道哲学操作系统。不是名言合集，是可运行的思维框架。",
           "children": [],
@@ -1732,6 +1711,27 @@
             "owner": "nuwa-skills",
             "repo": "brucelee-skill",
             "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "博尔赫斯.skill",
+          "description": "borges-skill @Panmax 蒸馏博尔赫斯的迷宫思维：无限、镜像、时间分叉……用他的想象力框架照亮你的认知迷宫",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207945641,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:06:48Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "borges-skill",
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:55:49.210Z",
+    "last_updated": "2026-09-26T08:42:11.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-24T06:54:39Z",
+      "last_commit": "2026-09-26T06:47:18Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "2077d6f45f43b9f3025a9c05a6753f22995a7ba1",
+    "original_repository_sha": "ded2e84dab2f09495309683b12eadec2644ba1e6",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
