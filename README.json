@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33486,
+            "stars": 33491,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25249,
+            "stars": 25261,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -326,7 +326,7 @@
             "open_issues": 5,
             "owner": "vogtsw",
             "repo": "boss-skills",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10376,
+            "stars": 10375,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1197,
+            "stars": 1198,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:00.277Z",
+    "last_updated": "2026-10-03T09:16:12.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
