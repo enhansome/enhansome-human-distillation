@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33491,
+            "stars": 33538,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 390,
+            "stars": 393,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25261,
+            "stars": 25281,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10375,
+            "stars": 10382,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3801,
+            "stars": 3804,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2701,
+            "stars": 2703,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1198,
+            "stars": 1200,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 22,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1444,6 +1444,27 @@
         },
         {
           "node_type": "item",
+          "title": "达利欧.skill",
+          "description": "dalio-skill @Panmax 将瑞·达利欧的原则思维、极度透明与算法决策方法论蒸馏为思维技能，用桥水基金的方式帮你分析问题、制定决策。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207909470,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:06:54Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "dalio-skill",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "鲁迅.skill",
           "description": "luxun-skill @Panmax 将鲁迅的批判精神与杂文笔法蒸馏为思维技能，以匕首投枪般的文字直击要害。",
           "children": [],
@@ -1542,27 +1563,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "达利欧.skill",
-          "description": "dalio-skill @Panmax 将瑞·达利欧的原则思维、极度透明与算法决策方法论蒸馏为思维技能，用桥水基金的方式帮你分析问题、制定决策。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207909470,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:06:54Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "dalio-skill",
             "stars": 2,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:16:12.376Z",
+    "last_updated": "2026-10-04T09:55:28.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-02T07:41:28Z",
+      "last_commit": "2026-10-04T07:33:13Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "f85f95939015587e11129aa60a975fd63fd0cee8",
+    "original_repository_sha": "111592998a4f89106f50cbe4b755e439c0a0396d",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
