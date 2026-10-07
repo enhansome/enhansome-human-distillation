@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33652,
+            "stars": 33723,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 16,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -195,7 +195,7 @@
             "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 120,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25329,
+            "stars": 25360,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1089,
+            "stars": 1086,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -556,7 +556,7 @@
             "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "brother-skill",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "ai-agents",
               "bro",
@@ -770,7 +770,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10399,
+            "stars": 10406,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2747,
+            "stars": 2783,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 953,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -971,27 +971,6 @@
         },
         {
           "node_type": "item",
-          "title": "户晨风.skill",
-          "description": "hu-chen-feng-skill @123pyLeo 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1202551524,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-06T11:59:14Z",
-            "open_issues": 1,
-            "owner": "123pyLeo",
-            "repo": "hu-chen-feng-skill",
-            "stars": 24,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "王阳明.skill",
           "description": "wangyangming-skill @Panmax 蒸馏王阳明的心学智慧：知行合一、致良知、事上磨炼……用他的决策哲学帮你在行动中找到答案",
           "children": [],
@@ -1007,6 +986,27 @@
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
             "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "户晨风.skill",
+          "description": "hu-chen-feng-skill @123pyLeo 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1202551524,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-06T11:59:14Z",
+            "open_issues": 1,
+            "owner": "123pyLeo",
+            "repo": "hu-chen-feng-skill",
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -2179,6 +2179,27 @@
         },
         {
           "node_type": "item",
+          "title": "塞涅卡.skill",
+          "description": "seneca-skill @Panmax 将塞涅卡的斯多葛书信智慧、时间哲学与实用道德观——以书信体、温厚有力、实用哲学的风格回应你的每一个问题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207912681,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:07:29Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "seneca-skill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -2382,27 +2403,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "aurelius-skill",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "塞涅卡.skill",
-          "description": "seneca-skill @Panmax 将塞涅卡的斯多葛书信智慧、时间哲学与实用道德观——以书信体、温厚有力、实用哲学的风格回应你的每一个问题。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207912681,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:07:29Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "seneca-skill",
             "stars": 0,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:26.496Z",
+    "last_updated": "2026-10-07T10:23:38.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-05T07:51:16Z",
+      "last_commit": "2026-10-07T07:51:20Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "6201e4ec420e9f9bc27f9229f3e3ca729308209a",
+    "original_repository_sha": "39a36d45b2e108a2bde581cb44b15e64767e41d0",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
