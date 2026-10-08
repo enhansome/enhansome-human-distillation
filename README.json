@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33723,
+            "stars": 33800,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2435,
+            "stars": 2436,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 399,
+            "stars": 403,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -152,6 +152,27 @@
         },
         {
           "node_type": "item",
+          "title": "Anyone to Skill",
+          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
+            "homepage": null,
+            "id": 1202829616,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-07T01:26:23Z",
+            "open_issues": 0,
+            "owner": "OpenDemon",
+            "repo": "anyone-to-skill",
+            "stars": 122,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "forge-skill",
           "description": "forge-skill @YIKUAIBANZI 本地优先的人格引擎：蒸馏自己的决策盲点与表达模式，也可从聊天记录中提炼他人人格，支持多智能体决策与记忆驱动角色扮演",
           "children": [],
@@ -176,27 +197,6 @@
               "persona",
               "prompt-engineering"
             ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Anyone to Skill",
-          "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "万魂幡：Anyone to Skill，蒸馏任何人，把任何人蒸馏成Skill —给一个YouTube 频道链接、一堆 PDF、聊天记录、电子书——系统自动提取此人的心智模型、决策启发式、表达风格，输出一个可以让 AI 像他一样思考的 SKILL.md",
-            "homepage": null,
-            "id": 1202829616,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-07T01:26:23Z",
-            "open_issues": 0,
-            "owner": "OpenDemon",
-            "repo": "anyone-to-skill",
-            "stars": 121,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -285,7 +285,7 @@
             "open_issues": 67,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25360,
+            "stars": 25394,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "Trailblazer-Aha",
             "repo": "vengeful-ghost-skill",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10406,
+            "stars": 10416,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3806,
+            "stars": 3809,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2783,
+            "stars": 2809,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1204,
+            "stars": 1205,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 954,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 308,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 210,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -922,7 +922,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -964,7 +964,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1108,27 +1108,6 @@
         },
         {
           "node_type": "item",
-          "title": "郭德纲.skill",
-          "description": "guodegang-skills @ByteRax 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1205838993,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-09T11:06:11Z",
-            "open_issues": 0,
-            "owner": "ByteRax",
-            "repo": "guodegang-skills",
-            "stars": 12,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "钱学森.skill",
           "description": "qianxuesen-skill @Panmax 蒸馏钱学森的系统工程思维：跨学科整合、航天精神、从全局看问题……用系统工程之父的视角分析复杂系统问题",
           "children": [],
@@ -1143,6 +1122,27 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianxuesen-skill",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "郭德纲.skill",
+          "description": "guodegang-skills @ByteRax 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1205838993,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-04-09T11:06:11Z",
+            "open_issues": 0,
+            "owner": "ByteRax",
+            "repo": "guodegang-skills",
             "stars": 12,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:23:38.688Z",
+    "last_updated": "2026-10-08T10:43:56.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,11 +4566,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-07T07:51:20Z",
+      "last_commit": "2026-10-08T08:08:59Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 749,
+      "stars": 750,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "39a36d45b2e108a2bde581cb44b15e64767e41d0",
+    "original_repository_sha": "2f040efd39e61907fb2e258f09566f22651adb5a",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
