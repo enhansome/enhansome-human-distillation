@@ -15,11 +15,11 @@
             "id": 1201730379,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T06:54:31Z",
+            "last_commit": "2026-10-15T03:34:33Z",
             "open_issues": 20,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 34335,
+            "stars": 34449,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2440,
+            "stars": 2441,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1087,
+            "stars": 1088,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 403,
+            "stars": 405,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 69,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25598,
+            "stars": 25644,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -611,7 +611,7 @@
             "open_issues": 0,
             "owner": "YuzeHao2023",
             "repo": "love-skill",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10484,
+            "stars": 10496,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3814,
+            "stars": 3817,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2882,
+            "stars": 2892,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1216,
+            "stars": 1218,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -922,7 +922,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -2200,6 +2200,27 @@
         },
         {
           "node_type": "item",
+          "title": "亚里士多德.skill",
+          "description": "aristotle-skill @Panmax 将亚里士多德的逻辑学、修辞学与中道伦理蒸馏为思维技能，以经验主义与系统化分类的方式回答你的问题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1207908904,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-07-25T01:06:46Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "aristotle-skill",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -2361,27 +2382,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "plato-skill",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "亚里士多德.skill",
-          "description": "aristotle-skill @Panmax 将亚里士多德的逻辑学、修辞学与中道伦理蒸馏为思维技能，以经验主义与系统化分类的方式回答你的问题。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1207908904,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "aristotle-skill",
             "stars": 0,
             "topics": []
           },
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:50:22.180Z",
+    "last_updated": "2026-10-15T08:25:32.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4566,7 +4566,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-08T08:08:59Z",
+      "last_commit": "2026-10-15T06:39:37Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -4580,7 +4580,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "2f040efd39e61907fb2e258f09566f22651adb5a",
+    "original_repository_sha": "6cbe3972c7ce73b779758ea3e9adb439f18cc599",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
