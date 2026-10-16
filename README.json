@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T03:34:33Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 34449,
+            "stars": 34618,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2441,
+            "stars": 2444,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1088,
+            "stars": 1089,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -282,10 +282,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 69,
+            "open_issues": 71,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25644,
+            "stars": 25676,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -701,7 +701,7 @@
             "open_issues": 2,
             "owner": "xiaoheizi8",
             "repo": "parents-skills",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10496,
+            "stars": 10511,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3817,
+            "stars": 3819,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2892,
+            "stars": 2901,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1218,
+            "stars": 1221,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 313,
+            "stars": 312,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -922,7 +922,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 165,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:25:32.335Z",
+    "last_updated": "2026-10-16T08:18:32.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -4570,7 +4570,7 @@
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 752,
+      "stars": 751,
       "topics": [
         "agent-skills",
         "awesome-list",
