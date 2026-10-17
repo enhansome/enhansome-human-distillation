@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 34618,
+            "stars": 34753,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2444,
+            "stars": 2454,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 405,
+            "stars": 411,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -285,7 +285,7 @@
             "open_issues": 71,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25676,
+            "stars": 25703,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -493,7 +493,7 @@
             "open_issues": 2,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -535,7 +535,7 @@
             "open_issues": 1,
             "owner": "Cyh29hao",
             "repo": "shuixian-skill",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -611,7 +611,7 @@
             "open_issues": 0,
             "owner": "YuzeHao2023",
             "repo": "love-skill",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10511,
+            "stars": 10519,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3819,
+            "stars": 3820,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2901,
+            "stars": 2906,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1221,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 312,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -4558,7 +4558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:18:32.407Z",
+    "last_updated": "2026-10-17T07:54:22.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
