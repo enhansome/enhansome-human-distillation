@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-17T09:04:27Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 35012,
+            "stars": 35173,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2455,
+            "stars": 2456,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1094,
+            "stars": 1101,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 420,
+            "stars": 426,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -282,10 +282,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25780,
+            "stars": 25820,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -374,7 +374,7 @@
             "open_issues": 7,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1090,
+            "stars": 1089,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -767,10 +767,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:56:37Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10531,
+            "stars": 10546,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2919,
+            "stars": 2925,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1228,
+            "stars": 1230,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 963,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -943,7 +943,7 @@
             "open_issues": 0,
             "owner": "Crystalzhou666",
             "repo": "xie-shengzi",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -966,6 +966,35 @@
             "repo": "ilya-sutskever-skill",
             "stars": 52,
             "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "蒙特梭利.skill",
+          "description": "montessori-skill @Panmax 以蒙特梭利的视角回应——观察优先、尊重儿童、环境即教师，用百年经典教育哲学帮你重新理解学习与成长。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "蒙特梭利.skill — 儿童教育/自主学习/环境设计的思维操作系统",
+            "homepage": null,
+            "id": 1207911920,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:30Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "montessori-skill",
+            "stars": 39,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "education",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1035,7 +1064,7 @@
             "open_issues": 2,
             "owner": "baojiachen0214",
             "repo": "karlmarx-skill",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "ai",
               "chatgpt",
@@ -1691,35 +1720,6 @@
               "agent-skills",
               "ai-agents",
               "literature",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "蒙特梭利.skill",
-          "description": "montessori-skill @Panmax 以蒙特梭利的视角回应——观察优先、尊重儿童、环境即教师，用百年经典教育哲学帮你重新理解学习与成长。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "蒙特梭利.skill — 儿童教育/自主学习/环境设计的思维操作系统",
-            "homepage": null,
-            "id": 1207911920,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:30Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "montessori-skill",
-            "stars": 2,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "education",
               "llm",
               "nuwa",
               "persona",
@@ -5830,7 +5830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:04:07.025Z",
+    "last_updated": "2026-10-20T08:41:15.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5838,7 +5838,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-18T06:46:46Z",
+      "last_commit": "2026-10-20T06:49:43Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5852,7 +5852,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "3696560f8718f4baf877ee521e8e12e2911760ba",
+    "original_repository_sha": "095b92a747cb5cc7ff9c8fe78d0ea58a0fe125ba",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
