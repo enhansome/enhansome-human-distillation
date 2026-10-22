@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 35336,
+            "stars": 35495,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2460,
+            "stars": 2459,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1105,
+            "stars": 1109,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 429,
+            "stars": 431,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 16,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "wildbyteai",
             "repo": "digital-life",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -285,7 +285,7 @@
             "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 25854,
+            "stars": 25902,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -374,7 +374,7 @@
             "open_issues": 7,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -395,7 +395,7 @@
             "open_issues": 4,
             "owner": "zhang-haichao",
             "repo": "senpai-skill",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -490,7 +490,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-04-09T05:23:33Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
             "stars": 133,
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10557,
+            "stars": 10564,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3820,
+            "stars": 3822,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2929,
+            "stars": 2935,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1232,
+            "stars": 1238,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 966,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -880,7 +880,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -922,7 +922,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -943,7 +943,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
-            "stars": 71,
+            "stars": 74,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2629,6 +2629,35 @@
         },
         {
           "node_type": "item",
+          "title": "彼得·蒂尔.skill",
+          "description": "thiel-skill @Panmax 将彼得·蒂尔的「从0到1」思维方式注入 用逆向思考和垄断视角分析创业与商业问题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统",
+            "homepage": null,
+            "id": 1207913212,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:52Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "thiel-skill",
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -4152,35 +4181,6 @@
             "owner": "nuwa-skills",
             "repo": "lynch-skill",
             "stars": 0,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "investing",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "彼得·蒂尔.skill",
-          "description": "thiel-skill @Panmax 将彼得·蒂尔的「从0到1」思维方式注入 用逆向思考和垄断视角分析创业与商业问题。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统",
-            "homepage": null,
-            "id": 1207913212,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:52Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "thiel-skill",
-            "stars": 1,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -5830,7 +5830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:42:07.054Z",
+    "last_updated": "2026-10-22T08:44:28.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5838,7 +5838,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-21T06:44:33Z",
+      "last_commit": "2026-10-22T06:47:34Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5852,7 +5852,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "ce240bc0f6fc2d72f671d0535daa5d66253c33f3",
+    "original_repository_sha": "f6af621db39e4dcb0b85b7fdbfa6740251e38ef3",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
