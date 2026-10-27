@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 36037,
+            "stars": 36301,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1123,
+            "stars": 1126,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 442,
+            "stars": 448,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -282,10 +282,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26023,
+            "stars": 26087,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -416,7 +416,7 @@
             "open_issues": 6,
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1091,
+            "stars": 1092,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -493,7 +493,7 @@
             "open_issues": 3,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -531,7 +531,7 @@
             "id": 1204011601,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:03:03Z",
+            "last_commit": "2026-10-26T17:31:18Z",
             "open_issues": 1,
             "owner": "Cyh29hao",
             "repo": "shuixian-skill",
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10606,
+            "stars": 10621,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 20,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3829,
+            "stars": 3832,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2945,
+            "stars": 2950,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1249,
+            "stars": 1250,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -859,7 +859,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 969,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1103,6 +1103,35 @@
         },
         {
           "node_type": "item",
+          "title": "苏格拉底.skill",
+          "description": "socrates-skill @Panmax 蒸馏苏格拉底的提问框架：产婆术、认知谦逊、批判性思维……用他的追问方法帮你穿透表象、认识自己",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统",
+            "homepage": null,
+            "id": 1207874784,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:40Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "socrates-skill",
+            "stars": 15,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "UP主.skill",
           "description": "up-skill @jiemojiemo 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻",
           "children": [],
@@ -1119,35 +1148,6 @@
             "repo": "up-skill",
             "stars": 14,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "苏格拉底.skill",
-          "description": "socrates-skill @Panmax 蒸馏苏格拉底的提问框架：产婆术、认知谦逊、批判性思维……用他的追问方法帮你穿透表象、认识自己",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统",
-            "homepage": null,
-            "id": 1207874784,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:40Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "socrates-skill",
-            "stars": 14,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "llm",
-              "nuwa",
-              "persona",
-              "philosophy",
-              "prompt-engineering"
-            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1182,6 +1182,35 @@
         },
         {
           "node_type": "item",
+          "title": "巴菲特.skill",
+          "description": "buffett-skill @Panmax 蒸馏巴菲特的投资思维：价值投资、护城河、长期主义……用他的认知框架帮你做出更好的投资与商业决策",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "巴菲特.skill — 价值投资/长期主义/护城河思维的思维操作系统",
+            "homepage": null,
+            "id": 1207875287,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:40:40Z",
+            "open_issues": 1,
+            "owner": "nuwa-skills",
+            "repo": "buffett-skill",
+            "stars": 13,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "郭德纲.skill",
           "description": "guodegang-skills @ByteRax 基于3本一手著作全文分析和80+来源交叉验证，蒸馏郭德纲的认知操作系统——6个核心心智模型、10条决策启发式和完整表达DNA",
           "children": [],
@@ -1198,35 +1227,6 @@
             "repo": "guodegang-skills",
             "stars": 12,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "巴菲特.skill",
-          "description": "buffett-skill @Panmax 蒸馏巴菲特的投资思维：价值投资、护城河、长期主义……用他的认知框架帮你做出更好的投资与商业决策",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "巴菲特.skill — 价值投资/长期主义/护城河思维的思维操作系统",
-            "homepage": null,
-            "id": 1207875287,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:40:40Z",
-            "open_issues": 1,
-            "owner": "nuwa-skills",
-            "repo": "buffett-skill",
-            "stars": 12,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "investing",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -2005,7 +2005,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "inamori-skill",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -5806,7 +5806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T09:06:54.045Z",
+    "last_updated": "2026-10-27T09:09:10.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5814,11 +5814,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-24T06:38:33Z",
+      "last_commit": "2026-10-27T06:58:36Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 756,
+      "stars": 758,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -5828,7 +5828,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "1187c39524f85021959ee2114d81e858b34c36ef",
+    "original_repository_sha": "0e07eaac81d597be725de079fae6455ef5908787",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
