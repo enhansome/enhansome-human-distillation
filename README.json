@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 36698,
+            "stars": 36862,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2466,
+            "stars": 2468,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -124,7 +124,7 @@
             "open_issues": 16,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -166,7 +166,7 @@
             "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -282,10 +282,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 73,
+            "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26168,
+            "stars": 26204,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -674,7 +674,7 @@
             "open_issues": 0,
             "owner": "kroxchan",
             "repo": "xinyi",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10645,
+            "stars": 10655,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3836,
+            "stars": 3843,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2958,
+            "stars": 2962,
             "topics": [
               "dating"
             ]
@@ -840,7 +840,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1255,
+            "stars": 1261,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -882,7 +882,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 318,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -924,7 +924,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 182,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1016,7 +1016,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 27,
+            "stars": 30,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1334,6 +1334,35 @@
         },
         {
           "node_type": "item",
+          "title": "曾国藩.skill",
+          "description": "zengguofan-skill @Panmax 蒸馏曾国藩的自我管理框架：日课十二条、以拙胜巧、逆境突围……用他的修身方法论帮你管理自己与领导团队",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统",
+            "homepage": null,
+            "id": 1207874692,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:42:01Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "zengguofan-skill",
+            "stars": 4,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "段永平.skill",
           "description": "duanyongping-skill @Panmax 将段永平的「本分」哲学、价值投资智慧与克制经营理念蒸馏为思维技能，用「中国巴菲特」的视角帮你拆解问题。",
           "children": [],
@@ -1479,35 +1508,6 @@
         },
         {
           "node_type": "item",
-          "title": "曾国藩.skill",
-          "description": "zengguofan-skill @Panmax 蒸馏曾国藩的自我管理框架：日课十二条、以拙胜巧、逆境突围……用他的修身方法论帮你管理自己与领导团队",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统",
-            "homepage": null,
-            "id": 1207874692,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:42:01Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "zengguofan-skill",
-            "stars": 3,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "chinese-philosophy",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "冯唐.skill",
           "description": "fengtang-skill @Panmax 蒸馏冯唐的成事方法论：管理与文学的交汇、审美主义、不着急不害怕不要脸……用他的框架帮你成事与审美",
           "children": [],
@@ -1614,6 +1614,35 @@
               "agent-skills",
               "ai-agents",
               "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "稻盛和夫.skill",
+          "description": "inamori-skill @Panmax 蒸馏稻盛和夫的经营哲学：利他主义、阿米巴管理、敬天爱人……用他的框架帮你思考经营的本质",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "稻盛和夫.skill — 经营哲学/利他主义/阿米巴管理的思维操作系统",
+            "homepage": null,
+            "id": 1207875198,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:14Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "inamori-skill",
+            "stars": 3,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
               "llm",
               "nuwa",
               "persona",
@@ -1929,35 +1958,6 @@
               "persona",
               "prompt-engineering",
               "strategy"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "稻盛和夫.skill",
-          "description": "inamori-skill @Panmax 蒸馏稻盛和夫的经营哲学：利他主义、阿米巴管理、敬天爱人……用他的框架帮你思考经营的本质",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "稻盛和夫.skill — 经营哲学/利他主义/阿米巴管理的思维操作系统",
-            "homepage": null,
-            "id": 1207875198,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:14Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "inamori-skill",
-            "stars": 2,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "business",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
             ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -5808,7 +5808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:10:10.144Z",
+    "last_updated": "2026-10-30T10:12:19.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5816,7 +5816,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-28T07:40:44Z",
+      "last_commit": "2026-10-30T07:53:23Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5830,7 +5830,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "739dee242445f1d4a349910362aac87be47f5024",
+    "original_repository_sha": "31e78f511975186515da028d362a9516991e67af",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
