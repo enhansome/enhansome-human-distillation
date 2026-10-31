@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 36862,
+            "stars": 36942,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2468,
+            "stars": 2469,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -61,7 +61,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1130,
+            "stars": 1132,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,7 +96,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 463,
+            "stars": 468,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -285,7 +285,7 @@
             "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26204,
+            "stars": 26228,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -326,7 +326,7 @@
             "open_issues": 5,
             "owner": "vogtsw",
             "repo": "boss-skills",
-            "stars": 249,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10655,
+            "stars": 10663,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -791,7 +791,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3843,
+            "stars": 3845,
             "topics": [
               "ai-agents",
               "methodology",
@@ -817,7 +817,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2962,
+            "stars": 2967,
             "topics": [
               "dating"
             ]
@@ -840,7 +840,7 @@
             "open_issues": 4,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1261,
+            "stars": 1263,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -903,7 +903,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -924,7 +924,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 185,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -974,7 +974,7 @@
             "open_issues": 0,
             "owner": "Crystalzhou666",
             "repo": "xie-shengzi",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -2689,6 +2689,35 @@
         },
         {
           "node_type": "item",
+          "title": "张雪.skill",
+          "description": "zhangxue-skill @Panmax 蒸馏张雪机车创始人的创业框架：摩托车制造、草根创业、中国制造……用他的实战经验帮你理解制造业创业",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。",
+            "homepage": null,
+            "id": 1207851329,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:42:16Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "zhangxue-skill",
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -4124,35 +4153,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "huangrenxun-skill",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "entrepreneurship",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "张雪.skill",
-          "description": "zhangxue-skill @Panmax 蒸馏张雪机车创始人的创业框架：摩托车制造、草根创业、中国制造……用他的实战经验帮你理解制造业创业",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "张雪.skill — 张雪机车创始人的思维操作系统。5个核心心智模型、8条决策启发式和完整表达DNA。",
-            "homepage": null,
-            "id": 1207851329,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:42:16Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "zhangxue-skill",
             "stars": 0,
             "topics": [
               "agent-skills",
@@ -5808,7 +5808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:12:19.092Z",
+    "last_updated": "2026-10-31T09:47:50.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5816,11 +5816,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-30T07:53:23Z",
+      "last_commit": "2026-10-31T07:41:18Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 759,
+      "stars": 761,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -5830,7 +5830,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "31e78f511975186515da028d362a9516991e67af",
+    "original_repository_sha": "df47bc055688b6d3ca7d172efc44ccd1c8e4d1ac",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
