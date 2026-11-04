@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 37313,
+            "stars": 37462,
             "topics": [
               "deepseek-harness",
               "dsh-plugin"
@@ -43,7 +43,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2473,
+            "stars": 2476,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -64,7 +64,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1136,
+            "stars": 1138,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 478,
+            "stars": 480,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -288,7 +288,7 @@
             "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26328,
+            "stars": 26362,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -773,7 +773,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10692,
+            "stars": 10702,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -794,7 +794,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3848,
+            "stars": 3849,
             "topics": [
               "ai-agents",
               "methodology",
@@ -820,7 +820,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2974,
+            "stars": 2975,
             "topics": [
               "dating"
             ]
@@ -843,7 +843,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1268,
+            "stars": 1274,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -864,7 +864,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 972,
+            "stars": 974,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -885,7 +885,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -906,7 +906,7 @@
             "open_issues": 2,
             "owner": "Aubrey0806",
             "repo": "relationship-ququ-skill",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -927,7 +927,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 189,
+            "stars": 190,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -998,7 +998,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1087,6 +1087,35 @@
         },
         {
           "node_type": "item",
+          "title": "苏格拉底.skill",
+          "description": "socrates-skill @Panmax 蒸馏苏格拉底的提问框架：产婆术、认知谦逊、批判性思维……用他的追问方法帮你穿透表象、认识自己",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统",
+            "homepage": null,
+            "id": 1207874784,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:40Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "socrates-skill",
+            "stars": 16,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "孙哥.skill",
           "description": "Cyber-Sun-Ge @xuzhouli2020-design 蒸馏了孙宇晨在互联网上的语料，能为你提供第一手孙学人生指导",
           "children": [],
@@ -1103,35 +1132,6 @@
             "repo": "Cyber-Sun-Ge",
             "stars": 15,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "苏格拉底.skill",
-          "description": "socrates-skill @Panmax 蒸馏苏格拉底的提问框架：产婆术、认知谦逊、批判性思维……用他的追问方法帮你穿透表象、认识自己",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "苏格拉底.skill — 提问术/批判性思维/认知谦逊的思维操作系统",
-            "homepage": null,
-            "id": 1207874784,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:40Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "socrates-skill",
-            "stars": 15,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "llm",
-              "nuwa",
-              "persona",
-              "philosophy",
-              "prompt-engineering"
-            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -1351,11 +1351,40 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zengguofan-skill",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "agent-skills",
               "ai-agents",
               "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "达利欧.skill",
+          "description": "dalio-skill @Panmax 将瑞·达利欧的原则思维、极度透明与算法决策方法论蒸馏为思维技能，用桥水基金的方式帮你分析问题、制定决策。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "达利欧.skill — 原则/极度透明/算法决策的思维操作系统",
+            "homepage": null,
+            "id": 1207909470,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:40:51Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "dalio-skill",
+            "stars": 4,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
               "llm",
               "nuwa",
               "persona",
@@ -1583,35 +1612,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "marks-skill",
-            "stars": 3,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "investing",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "达利欧.skill",
-          "description": "dalio-skill @Panmax 将瑞·达利欧的原则思维、极度透明与算法决策方法论蒸馏为思维技能，用桥水基金的方式帮你分析问题、制定决策。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "达利欧.skill — 原则/极度透明/算法决策的思维操作系统",
-            "homepage": null,
-            "id": 1207909470,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:40:51Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "dalio-skill",
             "stars": 3,
             "topics": [
               "agent-skills",
@@ -5811,7 +5811,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:01:29.266Z",
+    "last_updated": "2026-11-04T11:09:36.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5819,7 +5819,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-03T08:47:35Z",
+      "last_commit": "2026-11-04T08:16:23Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5833,7 +5833,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "dbb70a49f81c8a6ee2b8f6b4ca7ebfc58258712b",
+    "original_repository_sha": "59e4adaca9226da0bdd00369932193ff3848f61f",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
