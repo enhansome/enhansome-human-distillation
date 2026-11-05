@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T08:51:23Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 37462,
+            "stars": 37562,
             "topics": [
               "deepseek-harness",
               "dsh-plugin"
@@ -43,7 +43,7 @@
             "open_issues": 11,
             "owner": "leilei926524-tech",
             "repo": "anti-distill",
-            "stars": 2476,
+            "stars": 2480,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -64,7 +64,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1138,
+            "stars": 1140,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -99,7 +99,7 @@
             "open_issues": 2,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -190,7 +190,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 129,
+            "stars": 132,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -288,7 +288,7 @@
             "open_issues": 72,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26362,
+            "stars": 26388,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -467,7 +467,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -566,40 +566,6 @@
         },
         {
           "node_type": "item",
-          "title": "兄弟.skill",
-          "description": "brother-skill @realteamprinz 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
-            "homepage": null,
-            "id": 1206820090,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-10T10:32:40Z",
-            "open_issues": 0,
-            "owner": "henryjohnbrand",
-            "repo": "brother-skill",
-            "stars": 19,
-            "topics": [
-              "ai-agents",
-              "bro",
-              "brother",
-              "claude-code",
-              "comedy",
-              "friend",
-              "hermes-agent",
-              "influencer",
-              "internet",
-              "openclaw",
-              "self-learning",
-              "skill"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "partner.skill",
           "description": "npy-skill @wwwttlll 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill",
           "children": [],
@@ -616,6 +582,40 @@
             "repo": "npy-skill",
             "stars": 19,
             "topics": []
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "兄弟.skill",
+          "description": "brother-skill @realteamprinz 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
+            "homepage": null,
+            "id": 1206820090,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-10T10:32:40Z",
+            "open_issues": 0,
+            "owner": "henryjohnbrand",
+            "repo": "brother-skill",
+            "stars": 18,
+            "topics": [
+              "ai-agents",
+              "bro",
+              "brother",
+              "claude-code",
+              "comedy",
+              "friend",
+              "hermes-agent",
+              "influencer",
+              "internet",
+              "openclaw",
+              "self-learning",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -656,7 +656,7 @@
             "open_issues": 0,
             "owner": "yyyyyyylll",
             "repo": "crush-skill",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -773,7 +773,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10702,
+            "stars": 10711,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -794,7 +794,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3849,
+            "stars": 3851,
             "topics": [
               "ai-agents",
               "methodology",
@@ -820,7 +820,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2975,
+            "stars": 2978,
             "topics": [
               "dating"
             ]
@@ -843,7 +843,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1274,
+            "stars": 1275,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -5811,7 +5811,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:09:36.097Z",
+    "last_updated": "2026-11-05T11:09:40.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5819,11 +5819,11 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-04T08:16:23Z",
+      "last_commit": "2026-11-05T08:42:31Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
-      "stars": 761,
+      "stars": 760,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -5833,7 +5833,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "59e4adaca9226da0bdd00369932193ff3848f61f",
+    "original_repository_sha": "3b30c1398579ee6ff769de886f0f2c4b8537405c",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
