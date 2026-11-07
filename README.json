@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 37670,
+            "stars": 37721,
             "topics": [
               "deepseek-harness",
               "dsh-plugin"
@@ -64,7 +64,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1140,
+            "stars": 1141,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -96,10 +96,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-18T01:20:29Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 482,
+            "stars": 484,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -190,7 +190,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -288,7 +288,7 @@
             "open_issues": 73,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26414,
+            "stars": 26424,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -773,7 +773,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10711,
+            "stars": 10714,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -794,7 +794,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3852,
+            "stars": 3853,
             "topics": [
               "ai-agents",
               "methodology",
@@ -820,7 +820,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2981,
+            "stars": 2984,
             "topics": [
               "dating"
             ]
@@ -843,7 +843,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1275,
+            "stars": 1277,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -5811,7 +5811,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:06:29.497Z",
+    "last_updated": "2026-11-07T10:25:30.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
