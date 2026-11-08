@@ -19,10 +19,28 @@
             "open_issues": 29,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 37721,
+            "stars": 37783,
             "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
               "deepseek-harness",
-              "dsh-plugin"
+              "dsh-plugin",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
             ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -43,7 +61,7 @@
             "open_issues": 11,
             "owner": "kokiainet",
             "repo": "anti-distill",
-            "stars": 2480,
+            "stars": 2481,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -99,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -169,7 +187,7 @@
             "open_issues": 0,
             "owner": "OpenDemon",
             "repo": "anyone-to-skill",
-            "stars": 133,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -285,10 +303,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-13T05:57:17Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26424,
+            "stars": 26431,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -377,7 +395,7 @@
             "open_issues": 7,
             "owner": "ybq22",
             "repo": "supervisor",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -538,7 +556,7 @@
             "open_issues": 1,
             "owner": "Cyh29hao",
             "repo": "shuixian-skill",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -773,8 +791,29 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10714,
-            "topics": []
+            "stars": 10723,
+            "topics": [
+              "agent-skills",
+              "career-planning",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "education",
+              "gaokao",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -794,7 +833,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3853,
+            "stars": 3854,
             "topics": [
               "ai-agents",
               "methodology",
@@ -820,7 +859,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2984,
+            "stars": 2986,
             "topics": [
               "dating"
             ]
@@ -843,7 +882,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1277,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -865,7 +904,27 @@
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
             "stars": 973,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "product-design",
+              "prompt-engineering",
+              "skills",
+              "steve-jobs"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -886,7 +945,27 @@
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
             "stars": 324,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "deep-learning",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "karpathy",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -927,7 +1006,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 190,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -999,7 +1078,27 @@
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
             "stars": 54,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "deep-learning",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "ilya-sutskever",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -5811,7 +5910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:25:30.936Z",
+    "last_updated": "2026-11-08T10:33:32.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
