@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 37958,
+            "stars": 38039,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1143,
+            "stars": 1144,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 489,
+            "stars": 491,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -173,6 +173,35 @@
         },
         {
           "node_type": "item",
+          "title": "forge-skill",
+          "description": "forge-skill @YIKUAIBANZI 本地优先的人格引擎：蒸馏自己的决策盲点与表达模式，也可从聊天记录中提炼他人人格，支持多智能体决策与记忆驱动角色扮演",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声 · Claude Code Skill",
+            "homepage": null,
+            "id": 1201394364,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-08T10:49:12Z",
+            "open_issues": 2,
+            "owner": "YIKUAIBANZI",
+            "repo": "forge-skill",
+            "stars": 135,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "claude-skill",
+              "digital-twin",
+              "memory",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "Anyone to Skill",
           "description": "anyone-to-skill @OpenDemon 从任何人的内容（视频、PDF、聊天记录、音频）中提取思维模式与表达风格，打包成可安装的 AI Skill 文件",
           "children": [],
@@ -189,35 +218,6 @@
             "repo": "anyone-to-skill",
             "stars": 134,
             "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "forge-skill",
-          "description": "forge-skill @YIKUAIBANZI 本地优先的人格引擎：蒸馏自己的决策盲点与表达模式，也可从聊天记录中提炼他人人格，支持多智能体决策与记忆驱动角色扮演",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "人格蒸馏引擎 · 蒸馏自己看清自己，蒸馏亲友留住余温与回声 · Claude Code Skill",
-            "homepage": null,
-            "id": 1201394364,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-08T10:49:12Z",
-            "open_issues": 2,
-            "owner": "YIKUAIBANZI",
-            "repo": "forge-skill",
-            "stars": 134,
-            "topics": [
-              "ai-agent",
-              "claude-code",
-              "claude-skill",
-              "digital-twin",
-              "memory",
-              "persona",
-              "prompt-engineering"
-            ]
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -276,7 +276,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-04-06T01:52:14Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "FredHJC",
             "repo": "digital-twin-skill",
             "stars": 4,
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26493,
+            "stars": 26516,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -485,7 +485,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -791,7 +791,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10735,
+            "stars": 10744,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -833,7 +833,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3857,
+            "stars": 3856,
             "topics": [
               "ai-agents",
               "methodology",
@@ -859,7 +859,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2991,
+            "stars": 2994,
             "topics": [
               "dating"
             ]
@@ -882,7 +882,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1289,
+            "stars": 1291,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -903,7 +903,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 976,
+            "stars": 978,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -944,7 +944,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1006,7 +1006,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 192,
+            "stars": 191,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1077,7 +1077,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -5910,7 +5910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:23:32.711Z",
+    "last_updated": "2026-11-11T11:10:30.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5918,7 +5918,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-05T08:42:31Z",
+      "last_commit": "2026-11-11T08:34:24Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5932,7 +5932,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "3b30c1398579ee6ff769de886f0f2c4b8537405c",
+    "original_repository_sha": "669a4543fd2a58188d950ecef8bbd146d697bbc2",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
