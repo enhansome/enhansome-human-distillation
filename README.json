@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38039,
+            "stars": 38122,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26516,
+            "stars": 26533,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -328,27 +328,6 @@
               "openclaw",
               "personal-agent"
             ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "老板.skills",
-          "description": "boss-skills @vogtsw 把老板炼入 token，把生产力的解放留给自己",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the liberation of productivity for yourself.",
-            "homepage": null,
-            "id": 1197329615,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-06-11T05:53:25Z",
-            "open_issues": 5,
-            "owner": "vogtsw",
-            "repo": "boss-skills",
-            "stars": 250,
-            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -485,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -619,7 +598,7 @@
             "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "brother-skill",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-agents",
               "bro",
@@ -791,7 +770,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10744,
+            "stars": 10754,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -833,7 +812,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3856,
+            "stars": 3859,
             "topics": [
               "ai-agents",
               "methodology",
@@ -859,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2994,
+            "stars": 2992,
             "topics": [
               "dating"
             ]
@@ -882,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1291,
+            "stars": 1295,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -903,7 +882,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 978,
+            "stars": 981,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1006,7 +985,7 @@
             "open_issues": 3,
             "owner": "rottenpen",
             "repo": "fengge-wangmingtianya-perspective",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -5910,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:10:30.099Z",
+    "last_updated": "2026-11-12T11:28:31.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5918,7 +5897,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-11T08:34:24Z",
+      "last_commit": "2026-11-12T08:57:17Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5932,7 +5911,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "669a4543fd2a58188d950ecef8bbd146d697bbc2",
+    "original_repository_sha": "7f8f69b9de714c936ee056a8152ebfefdf537f76",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
