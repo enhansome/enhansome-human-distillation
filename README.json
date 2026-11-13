@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T00:41:13Z",
-            "open_issues": 24,
+            "open_issues": 21,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38122,
+            "stars": 38201,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1145,
+            "stars": 1147,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 492,
+            "stars": 494,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -142,7 +142,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-12T14:39:47Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "ohad6k",
             "repo": "emulo",
             "stars": 305,
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26533,
+            "stars": 26552,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -767,10 +767,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:56:37Z",
-            "open_issues": 25,
+            "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10754,
+            "stars": 10760,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -812,7 +812,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3859,
+            "stars": 3861,
             "topics": [
               "ai-agents",
               "methodology",
@@ -879,7 +879,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-10T00:41:46Z",
-            "open_issues": 5,
+            "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
             "stars": 981,
@@ -920,7 +920,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:53:25Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
             "stars": 326,
@@ -1053,7 +1053,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:53:13Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "ilya-sutskever-skill",
             "stars": 55,
@@ -1097,7 +1097,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 30,
+            "stars": 29,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1365,6 +1365,35 @@
         },
         {
           "node_type": "item",
+          "title": "曾国藩.skill",
+          "description": "zengguofan-skill @Panmax 蒸馏曾国藩的自我管理框架：日课十二条、以拙胜巧、逆境突围……用他的修身方法论帮你管理自己与领导团队",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统",
+            "homepage": null,
+            "id": 1207874692,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:42:01Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "zengguofan-skill",
+            "stars": 6,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "Trump.skill",
           "description": "Trump-skill @wwwttlll 想和特朗普来一场真实的对话",
           "children": [],
@@ -1405,35 +1434,6 @@
               "agent-skills",
               "ai-agents",
               "literature",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "曾国藩.skill",
-          "description": "zengguofan-skill @Panmax 蒸馏曾国藩的自我管理框架：日课十二条、以拙胜巧、逆境突围……用他的修身方法论帮你管理自己与领导团队",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "曾国藩.skill — 自我管理/领导力/逆境突围的思维操作系统",
-            "homepage": null,
-            "id": 1207874692,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:42:01Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "zengguofan-skill",
-            "stars": 5,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "chinese-philosophy",
               "llm",
               "nuwa",
               "persona",
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T11:28:31.202Z",
+    "last_updated": "2026-11-13T11:12:43.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5897,7 +5897,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-12T08:57:17Z",
+      "last_commit": "2026-11-13T08:53:31Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5911,7 +5911,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "7f8f69b9de714c936ee056a8152ebfefdf537f76",
+    "original_repository_sha": "f8fa338a9eb53ea0c58af6f33fd1817566d4c3ba",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
