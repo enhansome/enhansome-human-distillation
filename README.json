@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38201,
+            "stars": 38264,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 494,
+            "stars": 496,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -145,7 +145,7 @@
             "open_issues": 15,
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "agent-memory",
               "agent-skills",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26552,
+            "stars": 26566,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -770,7 +770,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10760,
+            "stars": 10763,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2992,
+            "stars": 2995,
             "topics": [
               "dating"
             ]
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1295,
+            "stars": 1296,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:12:43.503Z",
+    "last_updated": "2026-11-14T10:38:46.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
