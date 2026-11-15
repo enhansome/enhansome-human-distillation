@@ -15,11 +15,11 @@
             "id": 1201730379,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T00:41:13Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-15T05:31:03Z",
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38264,
+            "stars": 38325,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26566,
+            "stars": 26582,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -416,7 +416,7 @@
             "open_issues": 6,
             "owner": "CommitHu502Craft",
             "repo": "professor-skill",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -493,7 +493,7 @@
             "open_issues": 3,
             "owner": "TammyTan516",
             "repo": "relationship-training-skill",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -767,10 +767,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:56:37Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10763,
+            "stars": 10773,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2995,
+            "stars": 2997,
             "topics": [
               "dating"
             ]
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1296,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -878,11 +878,11 @@
             "id": 1201942857,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-10T00:41:46Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T08:15:08Z",
+            "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -919,11 +919,11 @@
             "id": 1203030411,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-13T06:53:25Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T08:15:15Z",
+            "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1473,6 +1473,35 @@
         },
         {
           "node_type": "item",
+          "title": "孙子.skill",
+          "description": "sunzi-skill @Panmax 将孙子兵法的战略思维、博弈智慧和系统性分析蒸馏为思维技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "孙子.skill — 兵法/战略思维/博弈论的思维操作系统",
+            "homepage": null,
+            "id": 1207912977,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:50Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "sunzi-skill",
+            "stars": 4,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "段永平.skill",
           "description": "duanyongping-skill @Panmax 将段永平的「本分」哲学、价值投资智慧与克制经营理念蒸馏为思维技能，用「中国巴菲特」的视角帮你拆解问题。",
           "children": [],
@@ -1574,35 +1603,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "laozi-skill",
-            "stars": 3,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "chinese-philosophy",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "孙子.skill",
-          "description": "sunzi-skill @Panmax 将孙子兵法的战略思维、博弈智慧和系统性分析蒸馏为思维技能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "孙子.skill — 兵法/战略思维/博弈论的思维操作系统",
-            "homepage": null,
-            "id": 1207912977,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:50Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "sunzi-skill",
             "stars": 3,
             "topics": [
               "agent-skills",
@@ -2828,6 +2828,93 @@
         },
         {
           "node_type": "item",
+          "title": "特斯拉.skill",
+          "description": "tesla-skill @Panmax 将特斯拉的想象力驱动方法、独立思考精神和超前于时代的发明思维蒸馏为思维技能，像特斯拉一样以想象力构建未来。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "特斯拉.skill — 发明/想象力/交流电思维的思维操作系统",
+            "homepage": null,
+            "id": 1207913120,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:43Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "tesla-skill",
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "宗庆后.skill",
+          "description": "zongqinghou-skill @Panmax 以宗庆后的朴素经营哲学视角，帮你回归商业本质 -- 渠道为王、深入一线、脚踏实地。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统",
+            "homepage": null,
+            "id": 1207914174,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:42:07Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "zongqinghou-skill",
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "熊彼特.skill",
+          "description": "schumpeter-skill @Panmax 将熊彼特的创造性破坏理论、企业家精神与创新动力学蒸馏为思维技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统",
+            "homepage": null,
+            "id": 1207912629,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:38Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "schumpeter-skill",
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "约翰·博格.skill",
           "description": "bogle-skill @Panmax 将约翰·博格的指数基金哲学、低成本投资原则与长期持有信念蒸馏为思维技能，用先锋集团创始人的朴素智慧帮你构建简单有效的投资方案。",
           "children": [],
@@ -3306,35 +3393,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "curie-skill",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering",
-              "science"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "特斯拉.skill",
-          "description": "tesla-skill @Panmax 将特斯拉的想象力驱动方法、独立思考精神和超前于时代的发明思维蒸馏为思维技能，像特斯拉一样以想象力构建未来。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "特斯拉.skill — 发明/想象力/交流电思维的思维操作系统",
-            "homepage": null,
-            "id": 1207913120,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:43Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "tesla-skill",
             "stars": 0,
             "topics": [
               "agent-skills",
@@ -3973,35 +4031,6 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangxiaolong-skill",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "entrepreneurship",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "宗庆后.skill",
-          "description": "zongqinghou-skill @Panmax 以宗庆后的朴素经营哲学视角，帮你回归商业本质 -- 渠道为王、深入一线、脚踏实地。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统",
-            "homepage": null,
-            "id": 1207914174,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:42:07Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "zongqinghou-skill",
             "stars": 0,
             "topics": [
               "agent-skills",
@@ -5467,35 +5496,6 @@
         },
         {
           "node_type": "item",
-          "title": "熊彼特.skill",
-          "description": "schumpeter-skill @Panmax 将熊彼特的创造性破坏理论、企业家精神与创新动力学蒸馏为思维技能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统",
-            "homepage": null,
-            "id": 1207912629,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:38Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "schumpeter-skill",
-            "stars": 0,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "economics",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "米塞斯.skill",
           "description": "mises-skill @Panmax 将米塞斯的人的行为学、奥地利学派逻辑与不妥协的自由市场哲学蒸馏为思维技能。",
           "children": [],
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:38:46.042Z",
+    "last_updated": "2026-11-15T11:11:33.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5897,7 +5897,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-13T08:53:31Z",
+      "last_commit": "2026-11-15T08:35:14Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5911,7 +5911,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "f8fa338a9eb53ea0c58af6f33fd1817566d4c3ba",
+    "original_repository_sha": "78ac798200071799e4b5b6333435c62fc4f60a50",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
