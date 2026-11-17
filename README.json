@@ -15,11 +15,11 @@
             "id": 1201730379,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T05:31:03Z",
+            "last_commit": "2026-11-17T06:07:14Z",
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38397,
+            "stars": 38474,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -61,7 +61,7 @@
             "open_issues": 11,
             "owner": "kokiainet",
             "repo": "anti-distill",
-            "stars": 2486,
+            "stars": 2487,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "YIKUAIBANZI",
             "repo": "forge-skill",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26601,
+            "stars": 26623,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -563,27 +563,6 @@
         },
         {
           "node_type": "item",
-          "title": "partner.skill",
-          "description": "npy-skill @wwwttlll 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1198530119,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-04T13:14:21Z",
-            "open_issues": 0,
-            "owner": "wwwttlll",
-            "repo": "npy-skill",
-            "stars": 18,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
           "title": "兄弟.skill",
           "description": "brother-skill @realteamprinz 从抖音、群聊、微信截图等来源蒸馏你的兄弟们——口头禅、说话方式、搞笑风格、混乱能量，支持8种兄弟原型自动识别",
           "children": [],
@@ -613,6 +592,27 @@
               "self-learning",
               "skill"
             ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
+          "title": "partner.skill",
+          "description": "npy-skill @wwwttlll 描述你理想中的 TA，生成一个真正让你感受到爱的数字伴侣 Skill",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1198530119,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-04T13:14:21Z",
+            "open_issues": 0,
+            "owner": "wwwttlll",
+            "repo": "npy-skill",
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
         },
@@ -770,7 +770,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10785,
+            "stars": 10790,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -812,7 +812,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3860,
+            "stars": 3862,
             "topics": [
               "ai-agents",
               "methodology",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 2998,
+            "stars": 3000,
             "topics": [
               "dating"
             ]
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1299,
+            "stars": 1300,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -882,7 +882,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -923,7 +923,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -1035,7 +1035,7 @@
             "open_issues": 0,
             "owner": "Crystalzhou666",
             "repo": "xie-shengzi",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T11:41:43.108Z",
+    "last_updated": "2026-11-17T12:03:23.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5897,7 +5897,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-15T08:35:14Z",
+      "last_commit": "2026-11-17T09:52:49Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5911,7 +5911,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "78ac798200071799e4b5b6333435c62fc4f60a50",
+    "original_repository_sha": "4c0d05f33a295c1e3f5a21143f814284252e829e",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
