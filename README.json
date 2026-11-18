@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38474,
+            "stars": 38551,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -61,7 +61,7 @@
             "open_issues": 11,
             "owner": "kokiainet",
             "repo": "anti-distill",
-            "stars": 2487,
+            "stars": 2488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 499,
+            "stars": 503,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26623,
+            "stars": 26656,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -392,7 +392,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-31T07:34:43Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "zhang-haichao",
             "repo": "senpai-skill",
             "stars": 91,
@@ -535,7 +535,7 @@
             "open_issues": 1,
             "owner": "Cyh29hao",
             "repo": "shuixian-skill",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -770,7 +770,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10790,
+            "stars": 10797,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -812,7 +812,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3862,
+            "stars": 3861,
             "topics": [
               "ai-agents",
               "methodology",
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1300,
+            "stars": 1302,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -882,7 +882,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:03:23.450Z",
+    "last_updated": "2026-11-18T11:55:22.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
