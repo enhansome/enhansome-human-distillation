@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38629,
+            "stars": 38688,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -61,7 +61,7 @@
             "open_issues": 11,
             "owner": "kokiainet",
             "repo": "anti-distill",
-            "stars": 2489,
+            "stars": 2490,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1150,
+            "stars": 1152,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -117,7 +117,7 @@
             "open_issues": 4,
             "owner": "nuwa-skills",
             "repo": "awesome-nuwa",
-            "stars": 505,
+            "stars": 507,
             "topics": [
               "agent-skills",
               "awesome-list",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26673,
+            "stars": 26695,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -464,7 +464,7 @@
             "open_issues": 18,
             "owner": "titanwings",
             "repo": "ex-skill",
-            "stars": 1098,
+            "stars": 1099,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -514,7 +514,7 @@
             "open_issues": 0,
             "owner": "NatalieCao323",
             "repo": "partner-skill",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -812,7 +812,7 @@
             "open_issues": 21,
             "owner": "HughYau",
             "repo": "qiushi-skill",
-            "stars": 3891,
+            "stars": 3895,
             "topics": [
               "ai-agents",
               "methodology",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 3001,
+            "stars": 3002,
             "topics": [
               "dating"
             ]
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1305,
+            "stars": 1308,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -923,7 +923,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -2045,6 +2045,35 @@
         },
         {
           "node_type": "item",
+          "title": "村上春树.skill",
+          "description": "murakami-skill @Panmax 将村上春树的日常纪律、冷静克制与孤独创作哲学蒸馏为思维技能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "村上春树.skill — 纪律/长跑/孤独创作的思维操作系统",
+            "homepage": null,
+            "id": 1207912018,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-18T08:41:32Z",
+            "open_issues": 0,
+            "owner": "nuwa-skills",
+            "repo": "murakami-skill",
+            "stars": 2,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
+          },
+          "first_seen": "2026-08-28T15:29:09.326Z"
+        },
+        {
+          "node_type": "item",
           "title": "博尔赫斯.skill",
           "description": "borges-skill @Panmax 蒸馏博尔赫斯的迷宫思维：无限、镜像、时间分叉……用他的想象力框架照亮你的认知迷宫",
           "children": [],
@@ -2789,35 +2818,6 @@
               "agent-skills",
               "ai-agents",
               "entrepreneurship",
-              "llm",
-              "nuwa",
-              "persona",
-              "prompt-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T15:29:09.326Z"
-        },
-        {
-          "node_type": "item",
-          "title": "村上春树.skill",
-          "description": "murakami-skill @Panmax 将村上春树的日常纪律、冷静克制与孤独创作哲学蒸馏为思维技能。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "村上春树.skill — 纪律/长跑/孤独创作的思维操作系统",
-            "homepage": null,
-            "id": 1207912018,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-18T08:41:32Z",
-            "open_issues": 0,
-            "owner": "nuwa-skills",
-            "repo": "murakami-skill",
-            "stars": 1,
-            "topics": [
-              "agent-skills",
-              "ai-agents",
-              "literature",
               "llm",
               "nuwa",
               "persona",
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:52:10.734Z",
+    "last_updated": "2026-11-20T11:53:42.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
@@ -5897,7 +5897,7 @@
       "id": 1199916658,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-17T09:52:49Z",
+      "last_commit": "2026-11-20T09:21:04Z",
       "open_issues": 3,
       "owner": "mliu98",
       "repo": "awesome-human-distillation",
@@ -5911,7 +5911,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "4c0d05f33a295c1e3f5a21143f814284252e829e",
+    "original_repository_sha": "587457a7eaa25d24cb2d982d457e49f8833fde67",
     "enhanced_repository": "enhansome/enhansome-human-distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Human Distillation with stars"
