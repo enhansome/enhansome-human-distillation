@@ -15,11 +15,11 @@
             "id": 1201730379,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T06:07:14Z",
+            "last_commit": "2026-11-21T09:57:56Z",
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 38688,
+            "stars": 38729,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -82,7 +82,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1152,
+            "stars": 1154,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -306,7 +306,7 @@
             "open_issues": 75,
             "owner": "titanwings",
             "repo": "distilly",
-            "stars": 26695,
+            "stars": 26737,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "henryjohnbrand",
             "repo": "brother-skill",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "ai-agents",
               "bro",
@@ -770,7 +770,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10800,
+            "stars": 10805,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -838,7 +838,7 @@
             "open_issues": 19,
             "owner": "hotcoffeeshake",
             "repo": "tong-jincheng-skill",
-            "stars": 3002,
+            "stars": 3004,
             "topics": [
               "dating"
             ]
@@ -861,7 +861,7 @@
             "open_issues": 3,
             "owner": "leezythu",
             "repo": "maoxuan-skill",
-            "stars": 1308,
+            "stars": 1310,
             "topics": []
           },
           "first_seen": "2026-08-28T15:29:09.326Z"
@@ -882,7 +882,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -923,7 +923,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "karpathy-skill",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -5889,7 +5889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:53:42.526Z",
+    "last_updated": "2026-11-21T11:23:04.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated catalog of human distillliation agent skills",
